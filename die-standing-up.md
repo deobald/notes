@@ -1,4 +1,4 @@
-# Die Standing Up
+# Die Standing Up 20200707131941
 
 The working title of a book (or some other medium) containing a conceptualization of health as a totality, with a specific role for meditation. For now, I'll just braindump notes straight into this README.
 
@@ -6,11 +6,11 @@ The working title of a book (or some other medium) containing a conceptualizatio
 
 "Die Standing Up" is not literal. It is hard to die standing up, working to better the world, if you're dying of stage 4 cancer. The concept of "standing up" has more to do with how we live up until the point of death, or near-death, and how we perceive death along the way.
 
-The image is rather the opposite of wounds-on-the-back, seen in battle when our protagonist cowers and flees. To stand up is to face our difficulties head-on.
+The image is rather the [[opposite]] of wounds-on-the-back, seen in battle when our protagonist cowers and flees. To stand up is to face our difficulties head-on.
 
 ## Cross-cutting Concepts
 
-Some concepts cut across the entirety of our existence when we model it in terms of health and well-being. I've called these out below as "Spectrums", "The Self->Others Spectrum (Self Support to Service)", "Maturity Models", "Dependency Models", and "Self Experiment".
+Some concepts cut across the entirety of our existence when we model it in terms of health and well-being. I've called these out below as "Spectrums", "The Self->Others Spectrum (Self Support to Service)", "Maturity Models", "Dependency Models", and "[[Self Experiment]]".
 
 ### The Spectrums
 
