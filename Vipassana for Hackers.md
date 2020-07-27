@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2020-07-27T14:50:31+05:30
+modified: 2020-07-27T15:23:28+05:30
 ---
 
 # Vipassana for Hackers
@@ -12,3 +12,5 @@ link to V.S. Ramachandran
 ...how to create links?
 
 [[anapana]]
+
+[[notes]]
