@@ -36,7 +36,7 @@ NB: It was brought to my attention (in response to a recent article I wrote, reg
 
 There is of course not a single spectrum for health. No two people will cleanly fit to the left or right of one another on a spectrum from "unhealthy" to "healthy". It is better to model one's personal health with a maturity model (or equivalent) which incorporates the dependencies between different aspects of health but keeps them separate, regarding progress.
 
-!\[original health maturity model\](maturity-model-original.png "A sample maturity model for health")
+!\[original health maturity model](maturity-model-original.png "A sample maturity model for health")
 
 ### Dependency Models
 

@@ -1,4 +1,4 @@
 
 
-Here's a link to [[self-experiment]]
+Here's a link to [[Self Experiment]]
 
