@@ -1,4 +1,4 @@
-# Die Standing Up 20200707131941
+# Die Standing Up
 
 The working title of a book (or some other medium) containing a conceptualization of health as a totality, with a specific role for meditation. For now, I'll just braindump notes straight into this README.
 

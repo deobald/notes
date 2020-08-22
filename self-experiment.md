@@ -1,4 +1,3 @@
-[[20200707131941]] die-standing-up
 
 # Self Experiment
 

@@ -8,4 +8,5 @@ Graph-shaped notes / zettelkasten
 
 [[Hacker Villages]]
 [[Movies]]
-
+[[Essays]]
+[[Commodity Thinking]]
