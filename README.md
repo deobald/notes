@@ -12,3 +12,8 @@ Graph-shaped notes / zettelkasten
 - [[Commodity Thinking]]
 
 - [[Igatpuri Walk]]
+
+- [[Transliteration Considered Harmful]]
+
+- [[Coops With Will]]
+
