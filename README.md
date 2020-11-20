@@ -12,6 +12,7 @@ Graph-shaped notes / zettelkasten
 - [[Commodity Thinking]]
 
 - [[Igatpuri Walk]]
+- [[SUBK Village]]
 
 - [[Transliteration Considered Harmful]]
 
