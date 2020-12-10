@@ -10,3 +10,4 @@ Graph-shaped notes / zettelkasten
 [[Movies]]
 [[Essays]]
 [[Commodity Thinking]]
+[[Open Source Products]]
