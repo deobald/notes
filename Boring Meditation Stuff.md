@@ -32,3 +32,8 @@ The silence we need resides not in our cave but in our mind.
 
 a work containing many reflections of the Dhamma, by Ian McCrorie.)
 
+### The Crown
+
+- judgment of others vs. reflection on oneself
+- reflection is still intellectual, and therefore still _external_
+

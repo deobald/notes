@@ -11,6 +11,8 @@ Graph-shaped notes / zettelkasten
 - [[Essays]]
 - [[Commodity Thinking]]
 
+- [[Vipassana for Hackers]]
+- [[Boring Meditation Stuff]]
 - [[Igatpuri Walk]]
 - [[SUBK Village]]
 
