@@ -21,6 +21,7 @@ link to V.S. Ramachandran
 ### Dealing with death
 
 - [[Die Standing Up]] Die Standing Up
+- The Art of Dying
 - Covid-19
 - Comprehension of mortality: experiential, not intellectual
 - Beyond one's own lifespan
