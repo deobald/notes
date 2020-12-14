@@ -19,3 +19,4 @@ Graph-shaped notes / zettelkasten
 - [[Coops With Will]]
 
 - [[Open Source Products]]
+- [[Software Things]]

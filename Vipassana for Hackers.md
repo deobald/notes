@@ -14,3 +14,14 @@ link to V.S. Ramachandran
 [[anapana]]
 
 [[README]]
+
+
+## Paper 3: Why Meditate?
+
+### Dealing with death
+
+- [[Die Standing Up]] Die Standing Up
+- Covid-19
+- Comprehension of mortality: experiential, not intellectual
+- Beyond one's own lifespan
+
