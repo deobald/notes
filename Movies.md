@@ -35,7 +35,14 @@ modified: 2020-12-15T22:33:17-06:00
   3. Abhimaan
   4. Golmaal
   5. Bawarchi
- - English Vinglish
+Vishal Bharadwaj movies based on Shakespeare's works:
+\ 1. Maqbool
+\ 2. Omkara
+\ 3. Haider
+- English Vinglish
+- Newton (deepa)
+- Saans (aarika)
+- shanti (aarika)
 
 # Rewatch
 

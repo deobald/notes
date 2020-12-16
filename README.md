@@ -22,3 +22,5 @@ Graph-shaped notes / zettelkasten
 
 - [[Open Source Products]]
 - [[Software Things]]
+
+- [[Linux Server Cheatsheet]]
