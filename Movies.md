@@ -10,7 +10,24 @@ modified: 2020-12-15T22:33:17-06:00
 - Vivarium
 - The Mist
 
-# Hindi
+# Rewatch
+
+- Willow
+- Cocoon
+- Best of Enemies documentary 
+- My Best Friend (Herzog)
+- Thi Thi
+
+# TV Shows
+
+- Daredevil
+- Connected
+- Law & Order
+- Star Trek: The Next Generation
+- The Wire
+
+
+# Hindi Movies
 
 - Andhadhun (ragini + arun reco)
 - Lunchbox (ragini + arun reco)
@@ -43,18 +60,10 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 - Newton (deepa)
 - Saans (aarika)
 - shanti (aarika)
+- Aligarh (arun)
+- Kaminey (Guy Ritchie-esque)
+- Dev D
 
-# Rewatch
+# Hindi TV
 
-- Willow
-- Cocoon
-- Best of Enemies documentary 
-- My Best Friend (Herzog)
-- Thi Thi
-
-# TV Shows
-
-- Daredevil?
-- Connected?
-- Law & Order?
--
+- Family Man
