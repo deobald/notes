@@ -63,7 +63,11 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 - Aligarh (arun)
 - Kaminey (Guy Ritchie-esque)
 - Dev D
+- Gangs of Wasseypur
+- 
 
 # Hindi TV
 
 - Family Man
+- She (Netflix - Kirsty)
+- Delhi Crime (Netflix - elizabeth) -- very heavy and very good
