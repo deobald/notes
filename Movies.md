@@ -12,12 +12,30 @@ modified: 2020-12-15T22:33:17-06:00
 
 # Hindi
 
+- Andhadhun (ragini + arun reco)
+- Lunchbox (ragini + arun reco)
+- Mr and Mrs Iyer (ragini + arun reco)
 - Mard ko Dard Nahi Hai
 - Basu_Chatterjee:
-1. Kisi se na kehna
-2. Chhoti si baat
-3. Jaane bhi do yaaron
-4. Hamari Bahu Alka
+  1. Kisi se na kehna
+  2. Chhoti si baat
+  3. Jaane bhi do yaaron
+  4. Hamari Bahu Alka
+- Masaan (depressing)
+- Udaan
+- Monsoon Wedding
+- Dangal (fun to watch - ragini)
+- Masoom
+- Swades
+- Lipstick Under My Burka
+- Gulaal
+- Hrishikesh Mukherjee
+  1. Chupke Chupke
+  2. Anand
+  3. Abhimaan
+  4. Golmaal
+  5. Bawarchi
+ - English Vinglish
 
 # Rewatch
 
