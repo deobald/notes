@@ -62,7 +62,16 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 - Kaminey (Guy Ritchie-esque)
 - Dev D -- might not be enjoyable without context
 - Gangs of Wasseypur
-
+- Kabhi Khushi Kabhie Gham (paola)
+- Padman (paola)
+- Raazi (paola)
+- Jodhaa Akbar (paola)
+- Sholay (paola) -- old classic
+- Mother India (paola) -- old classic
+- Bareilly ki barfi (paola, juhi)
+- Three Idiots (matthew)
+- Lagaan (matthew)
+- The Guide (matthew)
 
 # Hindi TV
 
