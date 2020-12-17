@@ -75,6 +75,7 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 
 # Hindi TV
 
+- Made in Heaven (kitty strongly recommends)
 - Family Man
 - She (Netflix - Kirsty)
 - Delhi Crime (Netflix - elizabeth) -- very heavy and very good
