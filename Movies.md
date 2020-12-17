@@ -58,16 +58,16 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 \ 3. Haider
 - English Vinglish
 - Newton (deepa)
-- Saans (aarika)
-- shanti (aarika)
-- Aligarh (arun)
+- Aligarh (arun) -- very depressing
 - Kaminey (Guy Ritchie-esque)
-- Dev D
+- Dev D -- might not be enjoyable without context
 - Gangs of Wasseypur
-- 
+
 
 # Hindi TV
 
 - Family Man
 - She (Netflix - Kirsty)
 - Delhi Crime (Netflix - elizabeth) -- very heavy and very good
+- Saans (aarika)
+- shanti (aarika)
