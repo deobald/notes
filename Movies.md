@@ -1,6 +1,6 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2020-12-15T22:33:17-06:00
+modified: 2020-12-19T11:41:59-06:00
 ---
 
 # Movies
@@ -81,3 +81,20 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 - Delhi Crime (Netflix - elizabeth) -- very heavy and very good
 - Saans (aarika)
 - shanti (aarika)
+
+# Hindi Dubs
+
+https://m.imdb.com/list/ls092561377/
+
+- young pope
+- haunting of hill house
+- picard
+- cosmos
+- black mirror
+- inside bill’s brain?
+- house of cards?
+- series of unfortunate events?
+- queens gambit?
+- daredevil?
+- bikram?
+- umbrella academy?
