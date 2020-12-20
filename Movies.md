@@ -73,6 +73,8 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 - Lagaan (matthew)
 - The Guide (matthew)
 
+Mr and Mrs. Iyer, Maqbool, Haider, Omkara, Monsoon Wedding, Lunchbox, Andhadhun, Aligarh, are all good movies (arun says)
+
 # Hindi TV
 
 - Made in Heaven (kitty strongly recommends)
