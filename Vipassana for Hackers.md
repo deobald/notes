@@ -26,3 +26,8 @@ link to V.S. Ramachandran
 - Comprehension of mortality: experiential, not intellectual
 - Beyond one's own lifespan
 
+## Paper 4: Mastering Spacetime
+
+- https://www.dhammatalks.org/suttas/AN/AN5_59.html "Hard to Find (1) - AN 5:59"
+- https://www.dhammatalks.org/suttas/AN/AN5_60.html "Hard to Find (2) - AN 5:60"
+
