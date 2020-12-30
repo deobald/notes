@@ -9,16 +9,16 @@ The letter can be very simple.
 1. In the salutation, address the letter to: `Immigration, Refugees, and Citizenship Canada`
 2. You do not need To: and From: address lines; we will include your signed letter in Preethi's application.
 3. Mention any or all of the following:
-    a) Preethi and I have been in a Common-Law relationship since September 2017, when we first moved in together.
-    b) If we have visited you together, stayed in your home, etc.
-    c) That you know Preethi and I to share expenses (rent, hotels, food, travel)
-    d) That Preethi and I have rarely been apart for more than a couple weeks at a time for over 3 years.
-    e) That Preethi and I both know each other's families very well and visit them often.
-    f) If you happen to be family, you could go into more detail regarding (e).
-    g) Public (in person or online) events, meetings, etc. that you know of or want to make IRCC aware of. These could be photos, social media, or other correspondence. If the resource is available at a public URL (website) it will be easier for you to include in the letter without an additional attachment.
-    h) How long you have known Preethi, how long you have known me.
-    i) If you have ever lived with me or Preethi (as an adult).
-    j) Stories: funny, weird, or otherwise. IRCC seems quite happy to inquire about very personal details, so please feel free to include any obscure detail you like.
+   1. Preethi and I have been in a Common-Law relationship since September 2017, when we first moved in together.
+   2. If we have visited you together, stayed in your home, etc.
+   3. That you know Preethi and I to share expenses (rent, hotels, food, travel)
+   4. That Preethi and I have rarely been apart for more than a couple weeks at a time for over 3 years.
+   5. That Preethi and I both know each other's families very well and visit them often.
+   6. If you happen to be family, you could go into more detail regarding (e).
+   7. Public (in person or online) events, meetings, etc. that you know of or want to make IRCC aware of. These could be photos, social media, or other correspondence. If the resource is available at a public URL (website) it will be easier for you to include in the letter without an additional attachment.
+   8. How long you have known Preethi, how long you have known me.
+   9. If you have ever lived with me or Preethi (as an adult).
+   10. Stories: funny, weird, or otherwise. IRCC seems quite happy to inquire about very personal details, so please feel free to include any obscure detail you like.
 4. Declare your statements to be true.
 5. Provide contact information for yourself in case IRCC wants to confirm details:
     a) Email Address
