@@ -18,6 +18,7 @@ The letter can be very simple.
     g) Public (in person or online) events, meetings, etc. that you know of or want to make IRCC aware of. These could be photos, social media, or other correspondence. If the resource is available at a public URL (website) it will be easier for you to include in the letter without an additional attachment.
     h) How long you have known Preethi, how long you have known me.
     i) If you have ever lived with me or Preethi (as an adult).
+    j) Stories: funny, weird, or otherwise. IRCC seems quite happy to inquire about very personal details, so please feel free to include any obscure detail you like.
 4. Declare your statements to be true.
 5. Provide contact information for yourself in case IRCC wants to confirm details:
     a) Email Address
