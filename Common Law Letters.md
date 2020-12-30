@@ -16,6 +16,8 @@ The letter can be very simple.
     e) That Preethi and I both know each other's families very well and visit them often.
     f) If you happen to be family, you could go into more detail regarding (e).
     g) Public (in person or online) events, meetings, etc. that you know of or want to make IRCC aware of. These could be photos, social media, or other correspondence. If the resource is available at a public URL (website) it will be easier for you to include in the letter without an additional attachment.
+    h) How long you have known Preethi, how long you have known me.
+    i) If you have ever lived with me or Preethi (as an adult).
 4. Declare your statements to be true.
 5. Provide contact information for yourself in case IRCC wants to confirm details:
     a) Email Address
