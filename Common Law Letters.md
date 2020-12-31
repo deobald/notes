@@ -7,7 +7,7 @@ This document is designed to help explain what details you may want to include i
 We hope to apply as soon as Preethi receives her Police Certificate ("WE DECREE PREETHI GOVINDARAJAN = DEFINITELY NOT A CRIME LORD.") from India, which should happen in 4-6 weeks... early February, if we're lucky. If you've sent us a recommendation letter by then, we'll use it!
 
 
-## Help and Suggestions
+## (1) Help and Suggestions
 
 The letter can be very simple. It can contain anything you want.
 
@@ -32,13 +32,13 @@ The letter can be very simple. It can contain anything you want.
 7. Sign the letter
 
 
-## How to Sign
+## (2) How to Sign
 
-### Olden-days: Scanning
+### (a) Olden-days: Scanning
 
 You can send us a scan of a printout with your signature; we don't need to send the original with your signature on it. The letter does not need to be handwritten... but that would be fun, if anyone wants to do that.
 
-### Newen-days: PDF Signatures
+### (b) Newen-days: PDF Signatures
 
 You can create the letter on Google Docs and then use "File => Print" to turn it into a PDF.
 
