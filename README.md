@@ -1,5 +1,5 @@
 ---
-modified: 2020-10-26T15:50:22+05:30
+modified: 2021-01-05T13:33:38-06:00
 ---
 
 # notes
@@ -24,3 +24,5 @@ Graph-shaped notes / zettelkasten
 - [[Software Things]]
 
 - [[Linux Server Cheatsheet]]
+
+- [[Crux]]
