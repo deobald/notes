@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-01-05T13:38:53-06:00
+modified: 2021-01-05T13:42:22-06:00
 ---
 
 # Crux
@@ -9,3 +9,5 @@ modified: 2021-01-05T13:38:53-06:00
 - tinkertoy / lego / china patent 
 - enterprise bus ?
 - I just want a text file
+- axxo, stealing, shoulders of giants 
+-
