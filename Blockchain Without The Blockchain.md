@@ -6,4 +6,5 @@
     - index(es) - expensive to maintain
     - the graph was always there, whether reified or not
 - non-distributed => [[Consensus Considered Harmful]]
-- 
+- how do you `evict` from a blockchain?
+

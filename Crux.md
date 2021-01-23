@@ -7,14 +7,17 @@ modified: 2021-01-10T09:39:28-06:00
 
 ## Product Writing
 
-- [[What Is Crux?]]
+- [[What Is Crux]]?
 - [[Perfect Storm- Why Crux, Why Now]] ("Strike while the iron is hot")
+- [[DRY- We Keep Building Crux Over and Over]]
 - [[Embrace Imperfection]] ("This isn't the perfection you are looking for")
 - [[Try Crux in 30 Seconds]]
 - [[Crux: Power of the Record]]
 - [[Blockchain Without The Blockchain]]
+- [[Collaborative Roam As A Platform]]
 - [[Consensus Considered Harmful]] 
-- 
+- [[No One Wants a Proprietary Database]]
+- [[We Want You To Stop Using Our Database]]
 
 ## Personal Writing
 
@@ -24,6 +27,10 @@ modified: 2021-01-10T09:39:28-06:00
 ## Concepts
 
 - second brain ala second life (hack fest)
+- Vertex Duck Typing
+- dependencies
+    - Farbrausch: fr-0.1 "constant evolution" vs. fr-016 vs. big demos (DirectX)
+    - when are "big" dependencies okay?
 - tinkertoy / lego / china patent 
 - enterprise bus ?
 - axxo, stealing, shoulders of giants 
@@ -34,4 +41,10 @@ modified: 2021-01-10T09:39:28-06:00
 - hard v soft | repeating v unique | flat v nested
 - Postgres is a beautiful piece of engineering for a 50-year-old idea
 - crystalize over time: schema knobs
+- environments
+    - what is the "environment"?
+    - python / ruby environments = self-contained (sys, pkg, pyenv, xkcd)... shell
+    - _Hackers_ on the OS, time-share environments
+    - Do you want to be close to the metal or protected? How much of each?
+
 
