@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-01-05T13:42:22-06:00
+modified: 2021-01-10T09:39:28-06:00
 ---
 
 # Crux
@@ -11,6 +11,7 @@ modified: 2021-01-05T13:42:22-06:00
 - [[Perfect Storm- Why Crux, Why Now]] ("Strike while the iron is hot")
 - [[Embrace Imperfection]] ("This isn't the perfection you are looking for")
 - [[Try Crux in 30 Seconds]]
+- [[Crux: Power of the Record]]
 - [[Blockchain Without The Blockchain]]
 - [[Consensus Considered Harmful]] 
 - 
@@ -33,3 +34,4 @@ modified: 2021-01-05T13:42:22-06:00
 - hard v soft | repeating v unique | flat v nested
 - Postgres is a beautiful piece of engineering for a 50-year-old idea
 - crystalize over time: schema knobs
+

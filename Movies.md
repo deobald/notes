@@ -1,11 +1,17 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2020-12-19T11:41:59-06:00
+modified: 2021-01-23T11:32:27-06:00
 ---
 
 # Movies
 
 - King in the Wilderness
+- The Lobby
+- Putin’s Palace
+- Life Off-Grid
+
+—
+
 - Brazil
 - Thunder, Lightning, and Rain (Malayalam)
 - Vivarium
@@ -18,6 +24,7 @@ modified: 2020-12-19T11:41:59-06:00
 - Best of Enemies documentary 
 - My Best Friend (Herzog)
 - Thi Thi
+- Donnie Darko
 
 # TV Shows
 
