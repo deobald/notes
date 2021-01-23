@@ -23,7 +23,7 @@ end
 input.gsub!(/\[\[(.*?)\]\]/) do |m|
   match = Regexp.last_match
   link_target = match[1]
-  "\[\[[#{link_target}](https://github.com/deobald/notes/#{URI.escape(link_target)}.md)\]\]"
+  "\[\[[#{link_target}](https://github.com/deobald/notes/blob/master/output/#{URI.escape(link_target)}.md)\]\]"
 end
 
 print input
