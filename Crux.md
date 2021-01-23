@@ -9,6 +9,7 @@ modified: 2021-01-10T09:39:28-06:00
 
 - [[What Is Crux]]?
 - [[Perfect Storm- Why Crux, Why Now]] ("Strike while the iron is hot")
+- [[Crux- Capture The Truth]]
 - [[DRY- We Keep Building Crux Over and Over]]
 - [[Embrace Imperfection]] ("This isn't the perfection you are looking for")
 - [[Try Crux in 30 Seconds]]
