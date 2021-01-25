@@ -13,12 +13,17 @@ modified: 2021-01-10T09:39:28-06:00
 - [[DRY- We Keep Building Crux Over and Over]]
 - [[Embrace Imperfection]] ("This isn't the perfection you are looking for")
 - [[Try Crux in 30 Seconds]]
+- [[Crux Can Do Boring Things Too]]
 - [[Crux: Power of the Record]]
 - [[Blockchain Without The Blockchain]]
 - [[Collaborative Roam As A Platform]]
 - [[Consensus Considered Harmful]] 
 - [[No One Wants a Proprietary Database]]
 - [[We Want You To Stop Using Our Database]]
+
+## White Papers
+
+- [[Crux- GDPR For Write-Ahead Logs]]
 
 ## Personal Writing
 

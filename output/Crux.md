@@ -13,12 +13,17 @@ modified: 2021-01-10T09:39:28-06:00
 - [[[DRY- We Keep Building Crux Over and Over](https://github.com/deobald/notes/blob/master/output/DRY-%20We%20Keep%20Building%20Crux%20Over%20and%20Over.md)]]
 - [[[Embrace Imperfection](https://github.com/deobald/notes/blob/master/output/Embrace%20Imperfection.md)]] ("This isn't the perfection you are looking for")
 - [[[Try Crux in 30 Seconds](https://github.com/deobald/notes/blob/master/output/Try%20Crux%20in%2030%20Seconds.md)]]
+- [[[Crux Can Do Boring Things Too](https://github.com/deobald/notes/blob/master/output/Crux%20Can%20Do%20Boring%20Things%20Too.md)]]
 - [[[Crux: Power of the Record](https://github.com/deobald/notes/blob/master/output/Crux:%20Power%20of%20the%20Record.md)]]
 - [[[Blockchain Without The Blockchain](https://github.com/deobald/notes/blob/master/output/Blockchain%20Without%20The%20Blockchain.md)]]
 - [[[Collaborative Roam As A Platform](https://github.com/deobald/notes/blob/master/output/Collaborative%20Roam%20As%20A%20Platform.md)]]
 - [[[Consensus Considered Harmful](https://github.com/deobald/notes/blob/master/output/Consensus%20Considered%20Harmful.md)]] 
 - [[[No One Wants a Proprietary Database](https://github.com/deobald/notes/blob/master/output/No%20One%20Wants%20a%20Proprietary%20Database.md)]]
 - [[[We Want You To Stop Using Our Database](https://github.com/deobald/notes/blob/master/output/We%20Want%20You%20To%20Stop%20Using%20Our%20Database.md)]]
+
+## White Papers
+
+- [[[Crux- GDPR For Write-Ahead Logs](https://github.com/deobald/notes/blob/master/output/Crux-%20GDPR%20For%20Write-Ahead%20Logs.md)]]
 
 ## Personal Writing
 
