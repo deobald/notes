@@ -15,6 +15,7 @@ _Bitemporal Time_, _Graph Relationships_, and _Immutable Data_ constitute implic
 ...exist whether you want them to or not. An author who references a concept written about by another author is creating a relationship between herself, the other author, and that concept.
 
 - ex. Yuval Noah Harari writing about Mark Zuckerberg creates a relationship not only between two humans but between Harari's book and Facebook (both the software and the company)
+- Alexander: "a city is not a tree"
 
 ## immutability
 
