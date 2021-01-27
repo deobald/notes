@@ -10,10 +10,12 @@ The Crux Lexicon, ordered by tier.
 - Immutable = Truth
 - Eviction  = Safety
 
-## Secondary
+## Secondary - Unknown
 
 - (?) Foundation / Bedrock / Base = build everything on top of this
 - (?) Epoch / Valley = Confluence of Primaries
+
+## Secondary
 
 - Unbundled = UNIX Philosophy internally
 - Open      = User is always in control (unbundled++), FOSS
