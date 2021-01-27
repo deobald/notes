@@ -6,6 +6,7 @@ modified: 2021-01-10T09:39:28-06:00
 # Crux
 
 - [[[Crux Glossary](https://github.com/deobald/notes/blob/master/output/Crux%20Glossary.md)]]
+- [[[Crux Canon](https://github.com/deobald/notes/blob/master/output/Crux%20Canon.md)]]
 
 ## Product Writing
 

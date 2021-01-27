@@ -6,6 +6,7 @@ modified: 2021-01-10T09:39:28-06:00
 # Crux
 
 - [[Crux Glossary]]
+- [[Crux Canon]]
 
 ## Product Writing
 
