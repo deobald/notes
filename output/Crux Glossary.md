@@ -33,4 +33,5 @@ The Crux Lexicon, ordered by tier.
 - GDPR++ Compliance-Ready = Eviction
 - 2030s Database          = RDBMS is outmoded
 - Succession Planning     = pass the torch in 2060
+- Courage                 = corollary of "Safety"
 
