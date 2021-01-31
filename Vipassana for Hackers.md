@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2020-07-27T15:36:49+05:30
+modified: 2021-01-31T15:35:12-06:00
 ---
 
 # Vipassana for Hackers
@@ -14,6 +14,10 @@ link to V.S. Ramachandran
 [[anapana]]
 
 [[README]]
+
+## rationality
+
+feelings => beliefs VS rationality — _New Hopes_ p167
 
 
 ## Paper 3: Why Meditate?
@@ -30,4 +34,3 @@ link to V.S. Ramachandran
 
 - https://www.dhammatalks.org/suttas/AN/AN5_59.html "Hard to Find (1) - AN 5:59"
 - https://www.dhammatalks.org/suttas/AN/AN5_60.html "Hard to Find (2) - AN 5:60"
-
