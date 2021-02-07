@@ -2,7 +2,11 @@
 
 s/power/agility
 
-"Power (Agility) is directly proportional to the tools you can take for granted."
+"Power (Agility/Strength) is directly proportional to the tools you can take for granted."
+
+Like tacit knowledge and muscle memory, it takes time to build up. But once gained, it's difficult to lose.
+
+The inverse of bugs in kernels and cracks in foundations. The code that runs your business is the sum of everything under it, for good or bad. The stronger the foundation, the higher you can build.
 
 ## Real world
 
