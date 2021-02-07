@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-01-10T09:39:28-06:00
+modified: 2021-02-07T13:36:57-06:00
 ---
 
 # Crux
@@ -27,6 +27,7 @@ modified: 2021-01-10T09:39:28-06:00
 ## White Papers
 
 - [[Crux- GDPR For Write-Ahead Logs]]
+- [[Form for Domains]]
 
 ## Personal Writing
 
@@ -55,5 +56,3 @@ modified: 2021-01-10T09:39:28-06:00
     - python / ruby environments = self-contained (sys, pkg, pyenv, xkcd)... shell
     - _Hackers_ on the OS, time-share environments
     - Do you want to be close to the metal or protected? How much of each?
-
-
