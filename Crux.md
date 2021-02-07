@@ -24,6 +24,10 @@ modified: 2021-02-07T13:36:57-06:00
 - [[No One Wants a Proprietary Database]]
 - [[We Want You To Stop Using Our Database]]
 
+## Essays
+
+- [[Take Power for Granted]]
+
 ## White Papers
 
 - [[Crux- GDPR For Write-Ahead Logs]]
