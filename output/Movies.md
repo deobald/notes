@@ -1,6 +1,6 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2021-01-29T19:45:54-06:00
+modified: 2021-02-13T11:36:30-06:00
 ---
 
 # Movies
@@ -35,13 +35,18 @@ modified: 2021-01-29T19:45:54-06:00
 - Star Trek: The Next Generation
 - The Wire
 
+# Hindi Good Stuff
+
+- Lagaan (matthew)
+- Mard ko Dard Nahi Hai
+
 
 # Hindi Movies
 
 - Andhadhun (ragini + arun reco)
 - Lunchbox (ragini + arun reco)
 - Mr and Mrs Iyer (ragini + arun reco)
-- Mard ko Dard Nahi Hai
+- 
 - Basu_Chatterjee:
   1. Kisi se na kehna
   2. Chhoti si baat
@@ -79,7 +84,7 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 - Mother India (paola) -- old classic
 - Bareilly ki barfi (paola, juhi)
 - Three Idiots (matthew)
-- Lagaan (matthew)
+- 
 - The Guide (matthew)
 
 Mr and Mrs. Iyer, Maqbool, Haider, Omkara, Monsoon Wedding, Lunchbox, Andhadhun, Aligarh, are all good movies (arun says)
