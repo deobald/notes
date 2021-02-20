@@ -1,6 +1,6 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2021-02-19T19:27:59-06:00
+modified: 2021-02-19T21:52:36-06:00
 ---
 
 # Movies
@@ -16,7 +16,6 @@ modified: 2021-02-19T19:27:59-06:00
 - Sound of Metal
 - Brazil
 - Thunder, Lightning, and Rain (Malayalam)
-- Vivarium
 - The Mist
 
 # Rewatch
