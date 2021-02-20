@@ -1,6 +1,6 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2021-02-19T21:52:36-06:00
+modified: 2021-02-19T21:56:44-06:00
 ---
 
 # Movies
@@ -22,7 +22,7 @@ modified: 2021-02-19T21:52:36-06:00
 
 - Willow
 - Cocoon
-- My Best Friend (Herzog)
+- My Best Fiend (Herzog)
 - Thi Thi
 - Donnie Darko
 
