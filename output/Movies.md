@@ -1,6 +1,6 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2021-02-13T11:36:30-06:00
+modified: 2021-02-19T19:27:59-06:00
 ---
 
 # Movies
@@ -10,10 +10,10 @@ modified: 2021-02-13T11:36:30-06:00
 - Putin’s Palace
 - Best of Enemies in documentary 
 
-- Life Off-Grid
 
 —
 
+- Sound of Metal
 - Brazil
 - Thunder, Lightning, and Rain (Malayalam)
 - Vivarium
