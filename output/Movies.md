@@ -1,6 +1,6 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2021-02-23T21:30:29-06:00
+modified: 2021-02-26T23:13:11-06:00
 ---
 
 # Movies
@@ -14,7 +14,6 @@ modified: 2021-02-23T21:30:29-06:00
 
 ## Documentaries 
 
-- King in the Wilderness
 - The Lobby
 - Putin’s Palace
 - Best of Enemies in documentary 
