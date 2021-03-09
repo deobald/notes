@@ -40,6 +40,7 @@ modified: 2021-02-07T13:36:57-06:00
 
 ## Concepts
 
+- [[Speed vs Size]]
 - second brain ala second life (hack fest)
 - Vertex Duck Typing
 - dependencies
