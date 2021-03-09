@@ -1,29 +1,30 @@
 ---
 created: 2020-08-10T09:20:43-06:00
-modified: 2021-01-29T19:45:54-06:00
+modified: 2021-02-26T23:13:11-06:00
 ---
 
 # Movies
 
-- King in the Wilderness
-- The Lobby
-- Putin’s Palace
-- Best of Enemies in documentary 
-
-- Life Off-Grid
+- Sound of Metal
+- Brazil
+- Thunder, Lightning, and Rain (Malayalam)
+- The Mist
 
 —
 
-- Brazil
-- Thunder, Lightning, and Rain (Malayalam)
-- Vivarium
-- The Mist
+## Documentaries 
 
-# Rewatch
+- The Lobby
+- Putin’s Palace
+- Best of Enemies in documentary 
+- Four Horsemen
+- The Corporation 
+
+## Rewatch
 
 - Willow
 - Cocoon
-- My Best Friend (Herzog)
+- My Best Fiend (Herzog)
 - Thi Thi
 - Donnie Darko
 
@@ -35,13 +36,18 @@ modified: 2021-01-29T19:45:54-06:00
 - Star Trek: The Next Generation
 - The Wire
 
+# Hindi Good Stuff
+
+- Lagaan (matthew)
+- Mard ko Dard Nahi Hai
+
 
 # Hindi Movies
 
 - Andhadhun (ragini + arun reco)
 - Lunchbox (ragini + arun reco)
 - Mr and Mrs Iyer (ragini + arun reco)
-- Mard ko Dard Nahi Hai
+- 
 - Basu_Chatterjee:
   1. Kisi se na kehna
   2. Chhoti si baat
@@ -79,7 +85,7 @@ Vishal Bharadwaj movies based on Shakespeare's works:
 - Mother India (paola) -- old classic
 - Bareilly ki barfi (paola, juhi)
 - Three Idiots (matthew)
-- Lagaan (matthew)
+- 
 - The Guide (matthew)
 
 Mr and Mrs. Iyer, Maqbool, Haider, Omkara, Monsoon Wedding, Lunchbox, Andhadhun, Aligarh, are all good movies (arun says)
