@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-02-07T13:36:57-06:00
+modified: 2021-03-14T13:56:34-06:00
 ---
 
 # Crux
@@ -27,6 +27,7 @@ modified: 2021-02-07T13:36:57-06:00
 ## Essays
 
 - [[Take Power for Granted]]
+- [[Crux Origin Story]]
 
 ## White Papers
 
