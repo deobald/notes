@@ -11,18 +11,24 @@ modified: 2021-02-07T13:36:57-06:00
 ## Product Writing
 
 - [[What Is Crux]]?
-- [[Perfect Storm- Why Crux, Why Now]] ("Strike while the iron is hot")
-- [[Crux- Capture The Truth]]
 - [[DRY- We Keep Building Crux Over and Over]]
-- [[Embrace Imperfection]] ("This isn't the perfection you are looking for")
 - [[Try Crux in 30 Seconds]]
 - [[Crux Can Do Boring Things Too]]
-- [[Crux: Power of the Record]]
 - [[Blockchain Without The Blockchain]]
 - [[Collaborative Roam As A Platform]]
 - [[Consensus Considered Harmful]] 
 - [[No One Wants a Proprietary Database]]
 - [[We Want You To Stop Using Our Database]]
+
+## 5-clique
+
+- [[Crux: Power of the Record]]
+- [[Crux- Capture The Truth]]
+- [[Embrace Imperfection]] ("This isn't the perfection you are looking for")
+- Graph + Logic
+- [[Crux- The Crux of Bitemporality]]
+- [[Perfect Storm- Why Crux, Why Now]] ("Strike while the iron is hot")
+
 
 ## Essays
 

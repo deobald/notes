@@ -4,7 +4,7 @@ _Bitemporal Time_, _Graph Relationships_, and _Immutable Data_ constitute implic
 
 - [ ] Are there any CS proofs to this effect? -sd
 
-
+- "What is true?" dimension: https://www.youtube.com/watch?v=ua4QMFQATco&t=299s (CGP Grey)
 
 ## bitemporal time 
 
