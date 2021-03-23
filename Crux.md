@@ -25,7 +25,7 @@ modified: 2021-03-14T13:56:34-06:00
 - [[Crux: Power of the Record]]
 - [[Crux- Capture The Truth]]
 - [[Embrace Imperfection]] ("This isn't the perfection you are looking for")
-- Graph + Logic
+- [[Crux- Logical Graphs]]
 - [[Crux- The Crux of Bitemporality]]
 - [[Perfect Storm- Why Crux, Why Now]] ("Strike while the iron is hot")
 
