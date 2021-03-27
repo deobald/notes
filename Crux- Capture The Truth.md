@@ -1,3 +1,7 @@
+---
+modified: 2021-03-27T11:38:14-06:00
+---
+
 # Crux- Capture The Truth
 
 _Bitemporal Time_, _Graph Relationships_, and _Immutable Data_ constitute implicit truths about all data models.
@@ -5,6 +9,8 @@ _Bitemporal Time_, _Graph Relationships_, and _Immutable Data_ constitute implic
 - [ ] Are there any CS proofs to this effect? -sd
 
 - "What is true?" dimension: https://www.youtube.com/watch?v=ua4QMFQATco&t=299s (CGP Grey)
+
+- truth in: time, data, form, code
 
 ## bitemporal time 
 
@@ -26,4 +32,3 @@ _Bitemporal Time_, _Graph Relationships_, and _Immutable Data_ constitute implic
 ...is not a luxury because "the truth" can be a weapon. Fact: _Steven Deobald used Facebook on January 21st, 2021._ becomes a weapon if my name, my behaviour, or that date form a component part of weaponized data against me (or anyone else).
 
 As even the most mundane databases become increasingly personal, we are likely to see privacy emerge as a fundamental human right. Governments and corporations will need the capacity to _evict the truth_ as a matter of essential human rights. This is not incongruous with _capturing the truth_ as one cannot evict a fact which has not been accurately specified.
-
