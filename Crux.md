@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-04-07T13:53:24-06:00
+modified: 2021-04-07T14:00:14-06:00
 ---
 
 # Crux
@@ -11,6 +11,8 @@ modified: 2021-04-07T13:53:24-06:00
 flgof interpreter
 outside red bull sky dive vs inside
 badger bear holes 
+dry
+jjwz backflip 
 
 
 ## Product Writing
