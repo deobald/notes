@@ -8,11 +8,11 @@ modified: 2021-04-07T14:00:14-06:00
 - [[Crux Glossary]]
 - [[Crux Canon]]
 
-flgof interpreter
+GOF interpreter
 outside red bull sky dive vs inside
 badger bear holes 
 dry
-jjwz backflip 
+jwz backflip 
 
 
 ## Product Writing

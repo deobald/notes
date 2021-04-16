@@ -32,3 +32,5 @@ _Bitemporal Time_, _Graph Relationships_, and _Immutable Data_ constitute implic
 ...is not a luxury because "the truth" can be a weapon. Fact: _Steven Deobald used Facebook on January 21st, 2021._ becomes a weapon if my name, my behaviour, or that date form a component part of weaponized data against me (or anyone else).
 
 As even the most mundane databases become increasingly personal, we are likely to see privacy emerge as a fundamental human right. Governments and corporations will need the capacity to _evict the truth_ as a matter of essential human rights. This is not incongruous with _capturing the truth_ as one cannot evict a fact which has not been accurately specified.
+
+
