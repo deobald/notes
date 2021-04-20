@@ -60,7 +60,15 @@ ____
 Old English `lagu`, from Old Norse `lag`: ‘something laid down or fixed’, of Germanic origin and related to `lay`.
 ____
 
-The laws in the outermost layer are very different. They are the laws of society -- whether express or implied, encoded or assumed. 
+The laws in the outermost layer are very different. They are the laws of society -- whether express or implied, encoded or assumed. These laws are referred to by historian Yuval Noah Harari as "imagined realities" but are perhaps better understood as "collective hallucinations." footnote:harari1[Harari provides https://www.youtube.com/watch?v=zen-m0rMp4I[a concise five-minute summary].] These hallucinations include deities, nation states, corporations, human rights, and currency.
+
+Between the fixed law of nature and the fluent law of human delusion exist a number of other layers. You draw them on the whiteboard for Patrick. At the top, near the laws of nature, are subtle near-truths about the universe, detected by the paraphernalia of Science such as the Large Hadron Collider and the Olfactory Bulb. Under that comes a hard, utilitarian layer of electrons, atoms, the human body perceived as individual, and solid state memory. Beneath that, pliable (though still pragmatic) notions like transactions and blockchains. The last layers, groping toward the hallucinatory, consist of currencies and corporations.
+
+You draw a second axis. Codependent on the first, this axis does not form a two-dimensional plane so much as it forms a shard. At its apex is the Ultimate Truth, the union of the subtlest truths and the fundamental actualities of the universe. As the shard descends through the layers, it also expands on its second axis between actual truths and apparent truths.
+
+- change = truth, certainty = deceit 
+
+Apparent reality exists under the aegis of observers. UGH
 
 * money
 * interaction
