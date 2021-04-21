@@ -1,5 +1,5 @@
 ---
-modified: 2021-03-27T11:38:14-06:00
+modified: 2021-04-20T21:03:37-06:00
 ---
 
 # Crux- Capture The Truth
@@ -9,6 +9,7 @@ _Bitemporal Time_, _Graph Relationships_, and _Immutable Data_ constitute implic
 - [ ] Are there any CS proofs to this effect? -sd
 
 - "What is true?" dimension: https://www.youtube.com/watch?v=ua4QMFQATco&t=299s (CGP Grey)
+- csatt: p73 “classic style is not reflexive style” 
 
 - truth in: time, data, form, code
 
@@ -74,17 +75,3 @@ Apparent reality exists under the aegis of observers. UGH
 * interaction
 * murder
 * etc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
