@@ -63,9 +63,23 @@ ____
 
 The laws in the outermost layer are very different. They are the laws of society -- whether express or implied, encoded or assumed. These laws are referred to by historian Yuval Noah Harari as "imagined realities" but are perhaps better understood as "collective hallucinations." footnote:harari1[Harari provides https://www.youtube.com/watch?v=zen-m0rMp4I[a concise five-minute summary].] These hallucinations include deities, nation states, corporations, human rights, and currency.
 
-Between the fixed law of nature and the fluent law of human delusion exist a number of other layers. You draw them on the whiteboard for Patrick. At the top, near the laws of nature, are subtle near-truths about the universe, detected by the paraphernalia of Science such as the Large Hadron Collider and the Olfactory Bulb. Under that comes a hard, utilitarian layer of electrons, atoms, the human body perceived as individual, and solid state memory. Beneath that, pliable (though still pragmatic) notions like transactions and blockchains. The last layers, groping toward the hallucinatory, consist of currencies and corporations.
+Between the fixed law of nature and the fluent law of human delusion exist a number of other layers. You draw them on the whiteboard for Patrick. At the bottom, near the laws of nature, are subtle near-truths about the universe, detected by the paraphernalia of Science such as the Large Hadron Collider and the Olfactory Bulb. Above that comes a hard, utilitarian layer of electrons, atoms, the human body perceived as individual, and solid state memory. Above that, pliable (though still pragmatic) notions like transactions and blockchains. The last layers, groping toward the hallucinatory, consist of currencies and corporations.
 
-You draw a second axis. Codependent on the first, this axis does not form a two-dimensional plane so much as it forms a shard. At its apex is the Ultimate Truth, the union of the subtlest truths and the fundamental actualities of the universe. As the shard descends through the layers, it also expands on its second axis between actual truths and apparent truths.
+You draw a second axis. Codependent on the first, this axis does not form a two-dimensional plane so much as it forms a shard. At its lower vertex is the Ultimate Truth, the union of the subtlest truths and the fundamental actualities of the universe. As the shard ascends through the layers, it also expands on its second axis between actual truths and apparent truths. Each consecutive layer has a wider rift between the two.
+
+The Ultimate Truth is ineffable. No one has catalogued the supramundane or it would be a staple of every airport bookstore. Only the layers built atop Ultimate Truth can be captured, and even those are only captured as _apparent_ reality.
+
+The actual truth of matter is the subatomic and the apparent truth of matter is our identity. "I am" is true enough for mundane purposes. The actual truth of data is _facts_ and the apparent truth of data is, again, identity. Data is, however, always in the third person: "the user with id 37649 has been kick-banned." We perceive one identity -- in this case, we've even given that identity a number -- as changing state over time. "He was online at time T... then he was kick-banned at time T+1." This is the great illusion. We construct an identity, an entity, because it is true enough for mundane purposes. footnote:hickey1[https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey/[Are We There Yet?]]
+
+[quote, Rich Hickey, Are We There Yet?]
+____
+Entities that we see as continuous are a superimposition we place on a bunch of values that are causally-related.
+____
+
+Which apparent realities do we permit ourselves between the consequent layers? We accept the generality of the _transaction_, which is in turn predicated on higher-level illusions like _currency_ and _corporations_. The actual truth of the human species is that we exploit our capacity for cooperation to execute projects at a global scale across a network of eight billion nodes. footnote:hararisapiens[https://www.ynharari.com/book/sapiens-2/[Sapiens]] The apparent truth of our species is that we use money to buy stocks in corporations. The economy is true enough for mundane purposes.
+
+We can approach the actual truth of governments, corporations, and currencies by observing their imaginary and ephemeral nature but there is no utility in this. One person may become entirely convinced that the nation state of Israel is not a real thing but that does not eliminate the fantasy from the minds of billions of other human beings. -- the number of observers is what counts 
+
 
 - change = truth, certainty = deceit 
 
