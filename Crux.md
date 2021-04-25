@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-04-07T14:00:14-06:00
+modified: 2021-04-24T22:47:36-06:00
 ---
 
 # Crux
@@ -13,6 +13,8 @@ outside red bull sky dive vs inside
 badger bear holes 
 dry
 jwz backflip 
+
+mank - 00:35:00 - “industry that leaves the product with the creator” 
 
 
 ## Product Writing
