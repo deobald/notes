@@ -1,12 +1,14 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-04-24T22:47:36-06:00
+modified: 2021-05-02T20:07:41-06:00
 ---
 
 # Crux
 
 - [[Crux Glossary]]
 - [[Crux Canon]]
+
+- [[JuxtConf2021]]
 
 GOF interpreter
 outside red bull sky dive vs inside
