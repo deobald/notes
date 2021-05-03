@@ -1,6 +1,6 @@
 ---
 created: 2021-05-02T19:57:18-06:00
-modified: 2021-05-02T20:01:52-06:00
+modified: 2021-05-02T20:25:48-06:00
 ---
 
 # JuxtConf2021
@@ -8,6 +8,13 @@ modified: 2021-05-02T20:01:52-06:00
 ## What is Time?
 
 - time -> data : form : code 
+- 4 elements:
+  - code = air = motion 
+  - form = water = binding
+  - data = earth = solidity
+  - time = fire = prevailing temperature 
+- teach the controversy 
+
 - one should understand what time is to build systems on top of it 
 - don’t hug me i’m scared 
 - man from earth
