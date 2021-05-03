@@ -1,6 +1,6 @@
 ---
 created: 2021-05-02T19:57:18-06:00
-modified: 2021-05-02T20:25:48-06:00
+modified: 2021-05-02T21:10:44-06:00
 ---
 
 # JuxtConf2021
@@ -14,6 +14,12 @@ modified: 2021-05-02T20:25:48-06:00
   - data = earth = solidity
   - time = fire = prevailing temperature 
 - teach the controversy 
+- how is time = fire? think “liveness”
+
+- what is time? (q)
+- identity = causally related values over time 
+- cause? effect? events!
+- most important identity = me … who am i?
 
 - one should understand what time is to build systems on top of it 
 - don’t hug me i’m scared 
