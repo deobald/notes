@@ -9,6 +9,7 @@ modified: 2021-05-02T20:07:41-06:00
 - [[Crux Canon]]
 
 - [[JuxtConf2021]]
+- [[Cruxt Marketing]]
 
 GOF interpreter
 outside red bull sky dive vs inside
