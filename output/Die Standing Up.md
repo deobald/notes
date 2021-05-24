@@ -1,6 +1,12 @@
+---
+modified: 2021-05-24T16:15:33-06:00
+---
+
 # Die Standing Up
 
 The working title of a book (or some other medium) containing a conceptualization of health as a totality, with a specific role for meditation. For now, I'll just braindump notes straight into this README.
+
+- [[Atomic Habits]]
 
 ## The Working Title
 
@@ -104,4 +110,3 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 - \_Altered Traits_, Goleman (science of meditation)
 - \_How To Change Your Mind_, Pollan (pop science of psychedelics)
 - \_Buddha's Brain_ ?
-
