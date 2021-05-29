@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-05-02T20:07:41-06:00
+modified: 2021-05-28T23:16:34-06:00
 ---
 
 # Crux
@@ -10,6 +10,8 @@ modified: 2021-05-02T20:07:41-06:00
 
 - [[JuxtConf2021]]
 - [[Cruxt Marketing]]
+
+- [[WriteAReadme]]
 
 GOF interpreter
 outside red bull sky dive vs inside
