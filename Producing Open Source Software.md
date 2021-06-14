@@ -1,6 +1,6 @@
 ---
 created: 2021-06-14T17:16:03-06:00
-modified: 2021-06-14T17:26:35-06:00
+modified: 2021-06-14T17:45:01-06:00
 ---
 
 # Producing Open Source Software
@@ -21,3 +21,6 @@ modified: 2021-06-14T17:26:35-06:00
 - p32 example output / screenshots
 - p36 avoid private discussions 
 - p37 “conspicuous use of archives” (ch 6)
+- “if there’s no reason for it to be private, it should be public.” 
+- p40 “reviews should be public. even when in the same room … take care to send reviews to the development mailing list.” 
+-
