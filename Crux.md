@@ -7,6 +7,7 @@ modified: 2021-06-14T17:26:38-06:00
 
 - [[Crux Glossary]]
 - [[Crux Canon]]
+- [[Crux Doodles]]
 
 - [[JuxtConf2021]]
 - [[Cruxt Marketing]]
