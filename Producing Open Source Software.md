@@ -1,6 +1,6 @@
 ---
 created: 2021-06-14T17:16:03-06:00
-modified: 2021-06-14T17:45:01-06:00
+modified: 2021-06-21T17:07:44-06:00
 ---
 
 # Producing Open Source Software
@@ -23,4 +23,6 @@ modified: 2021-06-14T17:45:01-06:00
 - p37 “conspicuous use of archives” (ch 6)
 - “if there’s no reason for it to be private, it should be public.” 
 - p40 “reviews should be public. even when in the same room … take care to send reviews to the development mailing list.” 
--
+- p48 mailing list types: newsletter, user list, devel list … ?
+- p58 mailing lists
+- p69 commit emails vs commit-hooks to slack / irc / zulip / … matrix?
