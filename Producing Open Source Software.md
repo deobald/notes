@@ -1,6 +1,6 @@
 ---
 created: 2021-06-14T17:16:03-06:00
-modified: 2021-06-21T17:07:44-06:00
+modified: 2021-06-25T17:36:26-06:00
 ---
 
 # Producing Open Source Software
@@ -26,3 +26,6 @@ modified: 2021-06-21T17:07:44-06:00
 - p48 mailing list types: newsletter, user list, devel list … ?
 - p58 mailing lists
 - p69 commit emails vs commit-hooks to slack / irc / zulip / … matrix?
+- p81 the importance of pastebins
+- p88 forkability and benevolent dictators 
+-
