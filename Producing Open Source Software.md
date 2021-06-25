@@ -1,6 +1,6 @@
 ---
 created: 2021-06-14T17:16:03-06:00
-modified: 2021-06-25T17:44:29-06:00
+modified: 2021-06-25T17:56:33-06:00
 ---
 
 # Producing Open Source Software
@@ -29,4 +29,5 @@ modified: 2021-06-25T17:44:29-06:00
 - p81 the importance of pastebins
 - p88 forkability and benevolent dictators 
 - p91 dictator => democracy 
+- p93 honest brokers and approval voting
 -
