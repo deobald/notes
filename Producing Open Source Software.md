@@ -1,6 +1,6 @@
 ---
 created: 2021-06-14T17:16:03-06:00
-modified: 2021-06-25T18:17:00-06:00
+modified: 2021-06-25T18:27:34-06:00
 ---
 
 # Producing Open Source Software
@@ -31,4 +31,5 @@ modified: 2021-06-25T18:17:00-06:00
 - p91 dictator => democracy 
 - p93 honest brokers and approval voting
 - p100 money & influence
+- p105 corporation: (not) voting as a bloc
 -
