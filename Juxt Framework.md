@@ -1,6 +1,6 @@
 ---
 created: 2021-07-03T15:00:35-06:00
-modified: 2021-07-03T15:18:00-06:00
+modified: 2021-07-03T15:24:44-06:00
 ---
 
 # Juxt Framework
@@ -21,7 +21,7 @@ Walking one path, while increasing clarity and strengthening behaviour, builds m
 
 ## why 
 
-- hacker ethos 
+- [[Hacker Ethic]]
 - leave it better than you found it 
 - continuity, longevity, sustainability 
 - “ride my bicycle until i fall off” == most boring idea possible 
