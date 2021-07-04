@@ -1,6 +1,6 @@
 ---
 created: 2021-06-14T17:16:03-06:00
-modified: 2021-06-25T18:27:34-06:00
+modified: 2021-07-04T13:27:33-06:00
 ---
 
 # Producing Open Source Software
@@ -32,4 +32,12 @@ modified: 2021-06-25T18:27:34-06:00
 - p93 honest brokers and approval voting
 - p100 money & influence
 - p105 corporation: (not) voting as a bloc
+- p112 get external code review
+- p114 hire professional QA
+- p115 hire a lawyer
+- … but work in public 
+- p117 marketing: reflect the truth of the code 
+- p119 competitor opinions = bad, facts = ok 
+- p121 “the ability to write clearly is perhaps the most important skill one can have in an open source for environment. in the long run it matters more than programming talent.”
+- p122 _group awareness in distributed software development_
 -
