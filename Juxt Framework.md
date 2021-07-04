@@ -1,9 +1,11 @@
 ---
 created: 2021-07-03T15:00:35-06:00
-modified: 2021-07-03T15:24:44-06:00
+modified: 2021-07-04T14:47:49-06:00
 ---
 
 # Juxt Framework
+
+certainty is the enemy of growth, learning, science. a framework helps us navigate uncertainty. 
 
 All meaningful frameworks answer big questions: what should we do => what should i do => how will i do it => why am i doing it => who am i
 
