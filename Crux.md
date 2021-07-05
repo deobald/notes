@@ -1,6 +1,6 @@
 ---
 created: 2021-01-05T13:33:46-06:00
-modified: 2021-06-14T17:26:38-06:00
+modified: 2021-07-03T15:00:29-06:00
 ---
 
 # Crux
@@ -15,6 +15,8 @@ modified: 2021-06-14T17:26:38-06:00
 - [[Producing Open Source Software]]
 
 - [[WriteAReadme]]
+
+- [[Juxt Framework]]
 
 GOF interpreter
 outside red bull sky dive vs inside
