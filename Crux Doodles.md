@@ -10,5 +10,7 @@ Website thoughts:
 https://excalidraw.com/#json=5732956744187904,uFCqTE5sbCtorr6XCodQYg
 
 APIs => Sales Channels:
-https://excalidraw.com/#json=6554180495867904,rlsyWLmhoYUeo1MiE8Cayg
+https://excalidraw.com/#json=6554180495867904,rlsyWLmhoYUeo1MiE8Cayg (v1)
+
+https://excalidraw.com/#json=5746092599672832,FWlG9D2uG06-y162kKNM0Q (v2)
 
