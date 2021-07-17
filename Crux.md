@@ -18,6 +18,8 @@ modified: 2021-07-03T15:00:29-06:00
 
 - [[Juxt Framework]]
 
+- [[Crux SQL Documentation Spec]]
+
 GOF interpreter
 outside red bull sky dive vs inside
 badger bear holes 
