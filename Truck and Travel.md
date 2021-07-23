@@ -1,6 +1,6 @@
 ---
 created: 2021-07-19T13:44:54-06:00
-modified: 2021-07-21T22:24:26-06:00
+modified: 2021-07-22T23:14:44-06:00
 ---
 
 # Truck and Travel
@@ -9,11 +9,11 @@ modified: 2021-07-21T22:24:26-06:00
 
 - [ ] dongle
 - [ ] seat belt
-- [ ] spare tire
 - [ ] rear view mirror
 
 ## Travel
 
+- [ ] inflate spare tire
 - [ ] sleeping bags / pads
 - [ ] message toby
 - [ ] stop locations 
