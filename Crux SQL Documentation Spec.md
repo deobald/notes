@@ -19,6 +19,10 @@ Ugh. Trying to figure out Crux’s value datatype support is hard. E.g. if I ask
 
 Figured from the FAQ that complex values get stored as code strings, but that does nothing to state how numbers are handled.
 
+So, yeah, forget documenting the edge cases. Forget the distributed stuff. What are the properties of the standalone, single-user use case like? I think there’s good docs on the query stuff, but the "what can I even put in this thing?" question is lacking an answer.
+
+Where is the equivalent of this page?[https://www.postgresql.org/docs/13/datatype.html](https://www.postgresql.org/docs/13/datatype.html)
+
 ## From Mike Royle:
 
 Google takes a similar approach with Spanner.  It only handles SQL:2011 and they've added keywords for some of the fancier aspects of Spanner (e.g. INTERLEAVE).  That does scare off some customers who are looking to migrate because it could cause massive changes to their code base.  However, for people starting from scratch, it doesn't seem to drive too many people off
