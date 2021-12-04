@@ -1,10 +1,10 @@
-= Resume Habits
+# Resume Habits
 
 * review multiple times, checking for typos
 * commas to denote separation of address parts
 * no periods at the end of bullet points
 
-== Consistency
+## Consistency
 
 * use the same date format everywhere
 * segregate Roles, Tools, Implementation Details, and Outcomes
@@ -22,7 +22,7 @@
     * avoid "involved in"
 * put references into reverse-chrono order
 
-== Wording
+## Wording
 
 * "First Prize: Taiwanese Presidential Hackathon 2020 for innovative uses of open data"
 * avoid superfluous adjectives: "various", etc.
@@ -32,7 +32,7 @@
 * "worked on training writers" => "trained writers"
     * use the direct verb everywhere
 
-== TODOs
+## TODOs
 
 * [ ] format all months as whole words
 * [ ] for ATS resumes:
