@@ -142,7 +142,7 @@ steven@deobald.ca
 
 ## Other courses sat
 
-2x STP, 10x 20-Day
+2x STP, 1x 20-Day
 
 ## Other courses served
 
