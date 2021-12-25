@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2021-01-31T15:35:12-06:00
+modified: 2021-12-25T14:51:24-06:00
 ---
 
 # Vipassana for Hackers
@@ -15,9 +15,13 @@ link to V.S. Ramachandran
 
 [[README]]
 
+[[VFH Rationality]]
+
 ## rationality
 
-feelings => beliefs VS rationality — _New Hopes_ p167
+
+
+
 
 
 ## Paper 3: Why Meditate?
