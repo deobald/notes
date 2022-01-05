@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2021-12-25T14:51:24-06:00
+modified: 2022-01-05T01:08:52-06:00
 ---
 
 # Vipassana for Hackers
@@ -20,7 +20,8 @@ link to V.S. Ramachandran
 ## rationality
 
 
-
+brain and body:
+https://youtu.be/1tOx_Vh5diE
 
 
 
