@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2022-01-05T01:08:52-06:00
+modified: 2022-01-06T19:03:31-06:00
 ---
 
 # Vipassana for Hackers
@@ -22,6 +22,10 @@ link to V.S. Ramachandran
 
 brain and body:
 https://youtu.be/1tOx_Vh5diE
+
+different kinds of knowledge: those which can be conveyed in text, and those which this text are pointing to
+
+concentric circles leading to monastics
 
 
 
