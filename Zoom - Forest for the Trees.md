@@ -3,7 +3,7 @@ created: 2021-12-19T15:25:40-06:00
 modified: 2021-12-19T15:30:49-06:00
 ---
 
-# Forest for the Trees
+# Zoom - Forest for the Trees
 
 i remember as a child sitting on the curb outside my house, starting at a rock i had picked from the asfalt. i wondered what was the significance of this rock and, though i had never heard the question which begins “if a tree falls in a forest…”, i wondered if the rock really existed if no one was paying attention to it or caring about it. i felt sad for the rock when it was in this non-existent state.
 
