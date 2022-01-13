@@ -1,6 +1,6 @@
 ---
 created: 2022-01-04T19:41:36-06:00
-modified: 2022-01-13T15:21:40-06:00
+modified: 2022-01-13T15:30:45-06:00
 ---
 
 # data: across time (xtdb)
@@ -27,3 +27,5 @@ mirai sekai- aeon metropolis = what size is your chronon?
 
 “let the record show!” - lawyer voice
 what record?
+
+things with sustainable processes survive, but so do things with _peristence_. just because something is on disk doesn’t mean it’s on disk forever. this is part of the appeal of dlts, immutable records. not only is an immutable easier to reason about (functionally) it’s much more likely to still be here in 20 years.
