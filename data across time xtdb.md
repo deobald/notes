@@ -1,6 +1,6 @@
 ---
 created: 2022-01-04T19:41:36-06:00
-modified: 2022-01-13T15:09:05-06:00
+modified: 2022-01-13T15:09:28-06:00
 ---
 
 # data: across time (xtdb)
@@ -21,4 +21,4 @@ https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.1434&rep=rep1&type=pdf
 
-- knuth’s argument for formal specification and clarity over ambiguity
+- knuth’s argument for formal specification and *clarity* over ambiguity
