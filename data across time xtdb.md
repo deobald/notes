@@ -31,3 +31,5 @@ what record?
 things with sustainable processes survive, but so do things with _peristence_. just because something is on disk doesn’t mean it’s on disk forever. this is part of the appeal of dlts, immutable records. not only is an immutable easier to reason about (functionally) it’s much more likely to still be here in 20 years.
 
 alex: “you’re throwing away your DATA?! you’re throwing away gold!!”
+
+if (truth in) data is reified imagination then perhaps knowledge is reified thought. we collectively agree that something is true and encode that cooperative truth as data. that data becomes _knowledge_ when we apply thought to it, adding the thought to our collective imagination.
