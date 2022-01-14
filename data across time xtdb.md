@@ -1,6 +1,6 @@
 ---
 created: 2022-01-04T19:41:36-06:00
-modified: 2022-01-13T15:31:22-06:00
+modified: 2022-01-14T15:45:45-06:00
 ---
 
 # data: across time (xtdb)
@@ -31,3 +31,9 @@ what record?
 things with sustainable processes survive, but so do things with _peristence_. just because something is on disk doesn’t mean it’s on disk forever. this is part of the appeal of dlts, immutable records. not only is an immutable easier to reason about (functionally) it’s much more likely to still be here in 20 years.
 
 alex: “you’re throwing away your DATA?! you’re throwing away gold!!”
+
+granularity / resolution of truth:
+time = chronon
+space = record - size, shape, form 
+
+ex: “like” a post = did the user really LIKE it? what were they actually feeling? heart rate data? EEG? fmri?
