@@ -1,6 +1,6 @@
 ---
 created: 2022-01-04T19:41:36-06:00
-modified: 2022-01-15T08:58:10-06:00
+modified: 2022-01-15T12:09:52-06:00
 ---
 
 # data: across time (xtdb)
@@ -44,3 +44,9 @@ ex: “like” a post = did the user really LIKE it? what were they actually fee
 - event-driven vs event-sourced
 - open source is not “anyone can contribute”
 - an open university is not “anyone can declare the syllabus”
+
+## unbundled
+
+an event stream is “unbundled” in much the same way the original macintosh was. woz had a vision for _hackers_ but, as it turns out, hackers want black boxes they can open… not unbundled boxes that arrive some assembly required in the mail
+
+car kits
