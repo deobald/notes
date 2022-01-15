@@ -1,6 +1,6 @@
 ---
 created: 2022-01-04T19:41:36-06:00
-modified: 2022-01-14T15:45:45-06:00
+modified: 2022-01-15T08:58:10-06:00
 ---
 
 # data: across time (xtdb)
@@ -37,3 +37,10 @@ time = chronon
 space = record - size, shape, form 
 
 ex: “like” a post = did the user really LIKE it? what were they actually feeling? heart rate data? EEG? fmri?
+
+
+## read vs write confusion
+
+- event-driven vs event-sourced
+- open source is not “anyone can contribute”
+- an open university is not “anyone can declare the syllabus”
