@@ -5,3 +5,7 @@ While she was reading Suzuki and Wilber, not without a satisfaction of her own, 
 
 
 “oh, minstrel. don’t sing to the youth about how their beauty is fading. they do not want to hear it. sing to the aged and aging, about their youth, their lost influence, theirs truth. then when you tell then they are righteous, they believe you because you already tell them of a truth they know. “
+
+
+
+it’s the difference between a truly sublime experience, where every atom of your body shatters in ecstasy, and a stoner with bad breath at a mogwai concert leaning over to insist “dude this is so SUBLIME.”
