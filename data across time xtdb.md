@@ -52,3 +52,9 @@ ex: “like” a post = did the user really LIKE it? what were they actually fee
 an event stream is “unbundled” in much the same way the original macintosh was. woz had a vision for _hackers_ but, as it turns out, hackers want black boxes they can open… not unbundled boxes that arrive some assembly required in the mail
 
 car kits
+
+## history is written by the winners
+
+* who writes it down? what did they see?
+* spectrum from "individual hallucination brought about by physics and biology" to "collective hallucination brought about by agreement between most individuals"
+
