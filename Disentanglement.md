@@ -26,7 +26,9 @@
 
 ## Code 
 
+[[Code xtdb]]
+
 - code is where developers touch the system
 - mainframe => client/server => HTTP => Crux+Site+desktop/JS/clients
 - user-serviceable = Right To Repair = move code around instead of moving data around external silos ~= F/OSS
-- 
+-
