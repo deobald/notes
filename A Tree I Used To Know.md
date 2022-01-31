@@ -1,0 +1,17 @@
+# A Tree I Used To Know
+
+This is a tree I used to know. I hardly know him now. That's how I always used to think of him -- as a man. Grizzled, rough, strong enough to take the odd nail whenever the urge to build a treehouse became a clarion. A treehouse always begins with the ladder -- you have to get up there somehow -- and two-by-fours nailed directly into the tree was the easiest, if not the sturdiest, ladder design.
+
+Throughout my entire life I have perceived a distinction between men and women. Those contrasts were salient to my five-year-old brain. Women were gentle, mysterious, resilient, and confusing. Girls in Kindergarten were somehow more intelligent and wise than the boys, myself included. To be around girls was to feel inadequate. Somehow girls had all the abilities boys did -- to jump and run and paint -- but also the capacity to tame creatures and understand the magic of nature in a way I could not. Women were just experienced girls, with this nature-taming power at its zenith.
+
+Everything in my world was magical, at once awe-inspiring -- demanding of exploration -- and utterly terrifying. Men were no different, but their magic was the dullest nature had on offer. Men could lift more and were slightly more inclined to take on roles which demanded extenuation, such as driving cars. Driving a car or planning a trip meant losing some of oneself to contribute that portion to the group. Noble, but unattractive. Women handled such situations with a fluid, elven grace where men preferred to grind a straight path to the solution. It was this roughness, this directness, which would cause men to engage in absurd behaviours like _cutting down trees_, which was a behaviour I could not, for the life of me, understand.
+
+"The roots are destroying the house foundation!" came the explanation. But I would have just as soon moved houses than kill a tree to save ours.
+
+And so it was that this tree was a man. Or rather, he would be a man if he could manage it. And he would probably be the sort of man who cut down trees if he was. Its bark was thick and rough and its entire being so straight and hard and dismal. I loved the tree but it was a mute, old wizard ... better to use him as a ladder than try to figure him out.
+
+Driving a nail into the old wizard was easier said than done, however. The outer layers of bark were so scarred and uneven that it was impossible to hold a board flat. We would struggle with the hammer for a few minutes before giving up and deciding that _designing_ tree houses was much more enjoyable than building them. Another grove of trees down the back alley was laid out in a perfect square. Huts in the branches with rope bridges between them materialized almost as quickly as one stepped into the four-sided space, so we would wander there.
+
+Patience became a lesson of the mute wizard. Months of experimentation and fantasy and failure would roll by with each adventure bringing us back to our own yard. Without our asking the wizard any questions, he began to explain himself. Our sandbox was right here, beside him. Limited by planked sides and a plastic bottom, the sandbox was painfully finite. It offered an educational foil to the tree. It could go nowhere. It could grow not at all.
+
+Who knows what the tree's top looked like? I had never been there. Who knows how deep it penetrated the earth? Maybe its roots really did invisibly explore the entire town. The tree was allowed to defend itself, to take its time, to explore. Like me, he was an adventurer. Like me, he was devoid of magic.
