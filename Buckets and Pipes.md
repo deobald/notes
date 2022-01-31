@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T13:12:00-06:00
-modified: 2022-01-18T14:44:46-06:00
+modified: 2022-01-31T12:19:49-06:00
 ---
 
 # Buckets and Pipes
@@ -16,3 +16,5 @@ modified: 2022-01-18T14:44:46-06:00
 can’t just get all water out of a pipe - you have to take whatever is coming out of the tap.
 
 no country has rice delivery pipes no matter how much rice a household eats.
+
+one may imagine totally new uses of existing technology but it takes a small leap of novelty once in a while to imagine entirely new technologies altogether
