@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T13:12:00-06:00
-modified: 2022-01-31T12:19:49-06:00
+modified: 2022-01-31T12:22:02-06:00
 ---
 
 # Buckets and Pipes
@@ -18,3 +18,5 @@ can’t just get all water out of a pipe - you have to take whatever is coming o
 no country has rice delivery pipes no matter how much rice a household eats.
 
 one may imagine totally new uses of existing technology but it takes a small leap of novelty once in a while to imagine entirely new technologies altogether
+
+SoSaC = samus aran space vault
