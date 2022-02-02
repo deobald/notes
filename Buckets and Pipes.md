@@ -19,7 +19,7 @@ no country has rice delivery pipes no matter how much rice a household eats.
 
 one may imagine totally new uses of existing technology but it takes a small leap of novelty once in a while to imagine entirely new technologies altogether
 
-SoSaC = samus aran space vault … not now, but very near future
+SoSaC = samus aran space locker … not now, but very near future
 
 ## Events vs. States
 
