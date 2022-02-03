@@ -1,6 +1,6 @@
 ---
 created: 2021-12-19T13:12:00-06:00
-modified: 2022-01-31T12:22:19-06:00
+modified: 2022-02-02T19:54:24-06:00
 ---
 
 # Buckets and Pipes
@@ -20,6 +20,9 @@ no country has rice delivery pipes no matter how much rice a household eats.
 one may imagine totally new uses of existing technology but it takes a small leap of novelty once in a while to imagine entirely new technologies altogether
 
 SoSaC = samus aran space locker … not now, but very near future
+
+ted nelson quote => p285 of DDIA (“ethernet and IP are packet-switching)
+
 
 ## Events vs. States
 
