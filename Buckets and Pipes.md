@@ -55,3 +55,8 @@ ted nelson quote => p285 of DDIA (“ethernet and IP are packet-switching)
 * "commands" ~= "Command Message"
 * "events" ~= "Event Message" (for both technical events and domain events)
 * "messages" ~= "Document Message"
+
+## Freedom from the Known
+
+p93: **Beauty without the object:** "We generally know beauty through comparison or throgh what man has put gogether, which means that we attribute beauty to some object. I see what I consider to be a beautiful building and that beauty I appreciate because of my knowledge of architecture and by comparing it with other buildings I have seen. But now I am askign myself, 'Is there a beauty without object?' When there is an observer who is the censor, the experiencer, the thinker, there is no beauty because beauty is something external, something the observer looks at and judges, but when there is no observer — and this demands a great deal of meditation, of enquiry — then there is beauty without the object.
+
