@@ -37,3 +37,13 @@ a work containing many reflections of the Dhamma, by Ian McCrorie.)
 - judgment of others vs. reflection on oneself
 - reflection is still intellectual, and therefore still _external_
 
+### The Cabin
+
+
+I come to this cabin, in part, to forage for universal truths. The forest is a sympathetic environment for that kind of experiment. Turn off your phone and there is no news, no email, no traffic, no music. Turn off the lights, close your eyes, watch your breath. There are no mantras, no gongs, no podcasts. Not even so much as the white noise of a refrigerator. But there is still noise.
+
+The noise of meditation is internal. Turning off the screaming cacophony of the outside world for a few days inevitably leads you to realize your brain was screaming along with the news and the music. Now it screams alone, rocketing from one topic to another -- furious one moment, delirious the next -- in search of entertainment. We know our senses tell us lies. We can't quite see infrared light and we can't feel the gallbladder even if we are quite certain it's there. But it's always shocking to listen to the absurd lies the mind tells _itself._
+
+Such navel-gazing isn't necessary to know that everyone is hallucinating their conscious reality. Science alone tells us this much.
+footnote:consciousness[Anil Seth, et al. https://www.pnas.org/content/103/28/10799[Theories and measures of consciousness: An extended framework]]
+footnote:functionsofconsciousness[Anil Seth: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.467.323&rep=rep1&type=pdf[Functions of Consciousness]]
