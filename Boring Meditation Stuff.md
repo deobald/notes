@@ -1,5 +1,3 @@
-
-
 Here's a link to [[Self Experiment]]
 
 ### Postcard Bravado
@@ -47,3 +45,9 @@ The noise of meditation is internal. Turning off the screaming cacophony of the 
 Such navel-gazing isn't necessary to know that everyone is hallucinating their conscious reality. Science alone tells us this much.
 footnote:consciousness[Anil Seth, et al. https://www.pnas.org/content/103/28/10799[Theories and measures of consciousness: An extended framework]]
 footnote:functionsofconsciousness[Anil Seth: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.467.323&rep=rep1&type=pdf[Functions of Consciousness]]
+
+### I Don’t Date Buddhist Guys
+
+after the zen sesshin, two guys doing dishes and arguing about observation and “who is the observer” … and me feeling intense relief that i was hiking to the church to overlook the valley, breathe fresh air, and be away from all that. 
+
+i just don’t -care-
