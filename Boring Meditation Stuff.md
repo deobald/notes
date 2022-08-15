@@ -51,3 +51,10 @@ footnote:functionsofconsciousness[Anil Seth: https://citeseerx.ist.psu.edu/viewd
 after the zen sesshin, two guys doing dishes and arguing about observation and “who is the observer” … and me feeling intense relief that i was hiking to the church to overlook the valley, breathe fresh air, and be away from all that. 
 
 i just don’t -care-
+
+### The Buddha Was An Alien
+
+- concept from “arrival”
+- how to heal the entire world?
+- fermi paradox
+- the idea that aliens just get bigger and more powerful … and couldn’t figure out how to hide / how to infest
