@@ -58,3 +58,12 @@ i just don’t -care-
 - how to heal the entire world?
 - fermi paradox
 - the idea that aliens just get bigger and more powerful … and couldn’t figure out how to hide / how to infest
+
+### 10,000 Hours
+
+- https://www.youtube.com/watch?v=5eW6Eagr9XA
+- Valid Environment = Monastery or City bus?
+- Many Repetitions
+- Timely Feedback => from whom? teacher or self?
+- Deliberate Practice = not just coasting
+
