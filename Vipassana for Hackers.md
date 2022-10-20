@@ -17,6 +17,10 @@ link to V.S. Ramachandran
 
 [[VFH Rationality]]
 
+## "there is no stack trace for the human mind"
+
+https://www.youtube.com/watch?v=e_6gkfTomUQ - Coda Hale 
+
 ## rationality
 
 
