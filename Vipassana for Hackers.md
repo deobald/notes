@@ -10,7 +10,7 @@ modified: 2022-01-06T19:03:31-06:00
 
 
 - disney on "how to relax": https://www.youtube.com/watch?v=rjWsYoKnEJc
-
+- jeff hawkins "computing like the brain" https://youtu.be/VVbqlwCqWFc (the neocortex is a predictive modelling system - 04:30)
 
 link to V.S. Ramachandran
 ...how to create links?
@@ -23,7 +23,7 @@ link to V.S. Ramachandran
 
 ## "there is no stack trace for the human mind"
 
-https://www.youtube.com/watch?v=e_6gkfTomUQ - Coda Hale 
+https://www.youtube.com/watch?v=e_6gkfTomUQ - Coda Hale
 
 ## rationality
 
