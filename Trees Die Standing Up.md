@@ -1,6 +1,6 @@
 ---
 created: 2022-08-03T19:19:54-03:00
-modified: 2022-08-03T19:32:38-03:00
+modified: 2023-01-05T11:25:33-06:00
 ---
 
 # Trees Die Standing Up
@@ -12,3 +12,11 @@ modified: 2022-08-03T19:32:38-03:00
 
 - in contrast the to selfish and self-serving years of youth
 - without knowing the dangers of hedonism directly, it is hard to escape them
+
+## sugar: diabetes is a hard stop 
+
+- abstinence 
+- checking ingredients labels 
+- swedish saturdays 
+- fiber 
+-
