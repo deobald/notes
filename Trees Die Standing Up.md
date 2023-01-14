@@ -1,6 +1,6 @@
 ---
 created: 2022-08-03T19:19:54-03:00
-modified: 2023-01-05T11:25:33-06:00
+modified: 2023-01-14T17:22:52-06:00
 ---
 
 # Trees Die Standing Up
@@ -20,3 +20,9 @@ modified: 2023-01-05T11:25:33-06:00
 - swedish saturdays 
 - fiber 
 -
+
+## university doctor
+
+“start now and it will be much easier”
+
+“it will get a little bit better, a little bit better”
