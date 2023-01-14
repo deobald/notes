@@ -1,6 +1,6 @@
 ---
 created: 2022-08-03T19:19:54-03:00
-modified: 2023-01-14T17:22:52-06:00
+modified: 2023-01-14T17:43:49-06:00
 ---
 
 # Trees Die Standing Up
@@ -26,3 +26,11 @@ modified: 2023-01-14T17:22:52-06:00
 “start now and it will be much easier”
 
 “it will get a little bit better, a little bit better”
+
+## i hate running 
+
+- waves (intervals)
+- self-waves (music, real hills)
+- mix tapes: bangalore group spotify playlist:
+    - ska, punk, disco, french, rock, prog, electronic, metal, country, hip-hop, classical
+    - show examples
