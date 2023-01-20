@@ -9,6 +9,7 @@
 - drugs
 - making software
   - Boko no Natsuyasumi and "effortless" UIs
+  - "passport" abstraction
 - different kinds of wood (Greenwood)
 - how cities are built
 - Action Button reviews Boko no Natsuyasumi
