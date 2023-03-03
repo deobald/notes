@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2022-01-06T19:03:31-06:00
+modified: 2023-03-02T20:22:52-08:00
 ---
 
 # Vipassana for Hackers
@@ -51,3 +51,8 @@ concentric circles leading to monastics
 
 - https://www.dhammatalks.org/suttas/AN/AN5_59.html "Hard to Find (1) - AN 5:59"
 - https://www.dhammatalks.org/suttas/AN/AN5_60.html "Hard to Find (2) - AN 5:60"
+
+
+## action / inaction / reaction
+
+girl gang violence on train in chicago - my inaction
