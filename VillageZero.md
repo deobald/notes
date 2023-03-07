@@ -22,6 +22,7 @@
 - point of focus —> overcoming anxiety etc.
 - centres
 - 1-day course (i’m doing this next sunday)
+- smoking, "Easy Way", will power
 
 ## bikes
 
