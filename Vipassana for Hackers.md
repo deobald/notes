@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2023-03-02T20:22:52-08:00
+modified: 2023-03-07T21:19:45-08:00
 ---
 
 # Vipassana for Hackers
@@ -56,3 +56,9 @@ concentric circles leading to monastics
 ## action / inaction / reaction
 
 girl gang violence on train in chicago - my inaction
+
+## satisfaction
+
+- orgasm (“climax”)
+- revenge killing 
+- “who has not wanted to hurt the one who hurts him?”
