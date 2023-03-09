@@ -1,6 +1,6 @@
 ---
 title: Vipassana for Hackers
-modified: 2023-03-07T21:19:45-08:00
+modified: 2023-03-09T11:23:29-08:00
 ---
 
 # Vipassana for Hackers
@@ -62,3 +62,9 @@ girl gang violence on train in chicago - my inaction
 - orgasm (“climax”)
 - revenge killing 
 - “who has not wanted to hurt the one who hurts him?”
+
+## comfort 
+
+- stoics / seneca 
+- “am i sitting up?”
+- a lack of awareness
