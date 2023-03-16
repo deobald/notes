@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-03-16T00:40:26-06:00
+modified: 2023-03-16T18:39:33-03:00
 ---
 
 # VfoH airplane
@@ -15,3 +15,9 @@ modified: 2023-03-16T00:40:26-06:00
 
 - dance in a category with climbing and running 
 -
+
+# DsU: keyboards
+
+- belly to desk
+- forearms fully on desk
+- laptops NEVER
