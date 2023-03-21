@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-03-20T22:19:50-03:00
+modified: 2023-03-21T16:53:03-03:00
 ---
 
 # VfoH airplane
@@ -20,6 +20,10 @@ modified: 2023-03-20T22:19:50-03:00
 - not ESR “hacker”
 - hacking is a-political
 - meditators are asked not to mix politics and meditation 
+
+# gross to subtle
+
+- imagination (“my left shoulder”) and intellectualization (“sensation is an indication of change”) are as gross as permitted 
 
 # DsU: exercise
 
