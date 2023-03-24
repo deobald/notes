@@ -17,9 +17,11 @@ link to V.S. Ramachandran
 
 [[anapana]]
 
-[[README]]
-
 [[VFH Rationality]]
+
+[[VfoH airplane]] 
+
+[[VFH Chapter Four]]
 
 ## "there is no stack trace for the human mind"
 

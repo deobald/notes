@@ -105,3 +105,20 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 - \_How To Change Your Mind_, Pollan (pop science of psychedelics)
 - \_Buddha's Brain_ ?
 
+## Caffeine
+
+- L-theanine - https://pubmed.ncbi.nlm.nih.gov/18296328/
+    - story of Italian Yoga guy ("tea doesn't have caffeine")
+- Tea vs. Coffee
+- "feeling of impending doom"
+- "caffeine makes me sick"
+- "tea is more of a balancer"
+- violent poops
+- physical feeling of panic
+
+## Hygiene 
+
+- bare feet = "unsanitary" in the West
+- shoes = "unsanitary" in the East
+- washing one's bum 
+
