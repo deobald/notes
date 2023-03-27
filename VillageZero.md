@@ -30,3 +30,8 @@
 - data
 - internal hubs
 - belt drive
+
+## 1990s Technology
+
+- Mumble
+- Federation > P2P (scuttlebutt)
