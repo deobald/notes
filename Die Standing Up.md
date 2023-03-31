@@ -131,3 +131,7 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 - trainer / classes help
 - someone else’s system (julian.com) helps 
 - socializing (class, strava, etc) is a kind of system
+
+## Service 
+
+- to a community … global, local, extended, household
