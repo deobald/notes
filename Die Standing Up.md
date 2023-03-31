@@ -120,5 +120,14 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 
 - bare feet = "unsanitary" in the West
 - shoes = "unsanitary" in the East
-- washing one's bum 
+- washing one's bum
 
+## Systems
+
+- don’t hunt for a guru / silver bullet
+- most systems are similar because none of this is that complicated 
+- people would rather debate than go swimming for an hour 
+- calendar to mark “eating out” or “candy day”
+- trainer / classes help
+- someone else’s system (julian.com) helps 
+- socializing (class, strava, etc) is a kind of system
