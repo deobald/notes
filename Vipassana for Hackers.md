@@ -19,7 +19,7 @@ link to V.S. Ramachandran
 
 [[VFH Rationality]]
 
-[[VfoH airplane]] 
+[[VfoH airplane]]
 
 [[VFH Chapter Four]]
 
@@ -79,3 +79,9 @@ From https://getpocket.com/read/1080642259?utm_source=firefox_pocket_save_button
 "I remember from my childhood that my grandmother was strongly against the overuse of antibiotics. She had worked since before the first World War as a nurse and had a commonsense attitude that taking antibiotics, unless they were absolutely necessary, was bad for you.
 
 It is not that she was an enemy of progress. She saw much progress in an almost 70-year nursing career; my grandfather, a diabetic, benefited greatly from the improved treatments that became available in his lifetime. But she, like many levelheaded people, would probably think it greatly arrogant for us, now, to be designing a robotic “replacement species,” when we obviously have so much trouble making relatively simple things work, and so much trouble managing—or even understanding—ourselves."
+
+## Why Meditate: suicide on TV
+
+* suicide / self-harm online => real-world harms
+* Hugh Laurie on mental health, as a TV concept (near end):
+    * https://www.youtube.com/watch?v=S26rESoxQ-M
