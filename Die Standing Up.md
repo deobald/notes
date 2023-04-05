@@ -116,7 +116,7 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 - violent poops
 - physical feeling of panic
 
-## Hygiene 
+## Hygiene
 
 - bare feet = "unsanitary" in the West
 - shoes = "unsanitary" in the East
@@ -125,13 +125,19 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 ## Systems
 
 - don’t hunt for a guru / silver bullet
-- most systems are similar because none of this is that complicated 
-- people would rather debate than go swimming for an hour 
+- most systems are similar because none of this is that complicated
+- people would rather debate than go swimming for an hour
 - calendar to mark “eating out” or “candy day”
 - trainer / classes help
-- someone else’s system (julian.com) helps 
+- someone else’s system (julian.com) helps
 - socializing (class, strava, etc) is a kind of system
 
-## Service 
+## Service
 
 - to a community … global, local, extended, household
+
+## Repetitive Strain
+
+- never use a laptop
+- use a monitor + keyboard
+- belly to desk, arms on desk
