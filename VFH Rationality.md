@@ -18,3 +18,7 @@ we know we are not rational (ref. predictably irrational?) but we desire and str
 - philsophy does not liberate the philosopher, much less the reader
 - note: "liberation" is incremental
 
+# Steven Pinker
+
+- https://www.youtube.com/watch?v=P6KTCjwmdzs
+- "Rationality" book
