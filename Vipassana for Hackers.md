@@ -85,3 +85,8 @@ It is not that she was an enemy of progress. She saw much progress in an almost 
 * suicide / self-harm online => real-world harms
 * Hugh Laurie on mental health, as a TV concept (near end):
     * https://www.youtube.com/watch?v=S26rESoxQ-M
+
+## Perception
+
+* https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law
+    * perceptible increase in sensation, based on pre-existing stimulus
