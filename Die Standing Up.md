@@ -141,3 +141,7 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 - never use a laptop
 - use a monitor + keyboard
 - belly to desk, arms on desk
+
+## Simplicity 
+
+- https://www.goodreads.com/book/show/42778724 (Start Simple, Lukas Volger)
