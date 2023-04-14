@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-03-21T16:53:03-03:00
+modified: 2023-04-14T17:32:58-03:00
 ---
 
 # VfoH airplane
@@ -35,3 +35,8 @@ modified: 2023-03-21T16:53:03-03:00
 - belly to desk
 - forearms fully on desk
 - laptops NEVER
+
+# anti-meditations 
+
+- push on a cycle / elliptical / treadmill- don’t look down at the screen 
+- “quitting smoking = NOT doing X. how hard could it be?”
