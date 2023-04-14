@@ -20,6 +20,10 @@
     * i.e. Not Slack
 * society
     * Mastodon
+* data sovereignty
+    * local-first (automerge, et al)
+    * identity (Solid)
+    * legislation (GDPR, Erasure)
 
 ## Preppers, DIY, Off-Grid
 
