@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-04-18T16:25:12-03:00
+modified: 2023-04-18T16:27:24-03:00
 ---
 
 # VfoH airplane
@@ -46,3 +46,11 @@ modified: 2023-04-18T16:25:12-03:00
 
 - push on a cycle / elliptical / treadmill- don’t look down at the screen 
 - “quitting smoking = NOT doing X. how hard could it be?”
+
+# Service is Sila
+
+- public service 
+- teachers
+- doctors
+- garbage men 
+-
