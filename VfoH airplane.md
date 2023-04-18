@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-04-14T17:32:58-03:00
+modified: 2023-04-18T16:25:12-03:00
 ---
 
 # VfoH airplane
@@ -10,6 +10,12 @@ modified: 2023-04-14T17:32:58-03:00
 - image of emaciated buddha
 - comparison to that level of torture
 - broken body (polio legs?) as comparison
+
+# Hacker
+
+- “life hacks”
+- biohackers 
+- 
 
 # Hacking is Social
 
