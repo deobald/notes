@@ -30,9 +30,13 @@
     * Rust
     * lightweight architecture
     * i.e. Not Slack
+    * 
+* federation 
+    * CoSocial (commercial, public)
 * society
     * Mastodon
 * data sovereignty
+    * e2e
     * local-first (automerge, et al)
     * identity (Solid)
     * legislation (GDPR, Erasure)
