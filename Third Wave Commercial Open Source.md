@@ -5,7 +5,19 @@
     * Trump Inc.
     * vs. transparency (accountability)
 
-## Waves Intersecting
+## First Wave
+
+* repackaging others' software (RedHat)
+
+## Second Wave
+
+* Open Core
+* Open Client + Closed Server
+    * Telegram
+    * Keybase
+    * Snap Store? wtf, Canonical
+
+## Third Wave = Waves/Trends Intersecting
 
 * f/oss
 * Right To Repair
