@@ -6,3 +6,5 @@ modified: 2023-04-19T08:01:21-03:00
 # Fiction
 
 it was a primordial sound, like a dravidian stop consonant followed by a long but indeterminate aspirated vowel. were north american men in pain when they poop?
+
+* in the context of hitting on someone or fishing for compliments: "anglo indians be anglin'"
