@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-04-18T16:27:24-03:00
+modified: 2023-05-02T12:54:52-03:00
 ---
 
 # VfoH airplane
@@ -59,3 +59,9 @@ modified: 2023-04-18T16:27:24-03:00
 
 - methodists: sanctification
     - https://www.youtube.com/watch?v=tzLS4O7YaUg&t=180
+
+# “something bigger than myself”
+
+- everyone is their own main character 
+- looking for something larger, more important, to be a part of 
+- “noble death”
