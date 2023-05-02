@@ -1,6 +1,6 @@
 ---
 created: 2023-03-07T09:37:56-08:00
-modified: 2023-03-16T19:28:38-03:00
+modified: 2023-05-02T13:33:52-03:00
 ---
 
 # Endatabas
@@ -23,3 +23,5 @@ modified: 2023-03-16T19:28:38-03:00
 
 - https://blog.symphonia.io/posts/2023-03-15_serverless-2023
 -
+
+the merit of the save button - intention
