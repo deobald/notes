@@ -145,3 +145,8 @@ Self-experiment itself, of course, lives on a spectrum as well: On one end, we h
 ## Simplicity 
 
 - https://www.goodreads.com/book/show/42778724 (Start Simple, Lukas Volger)
+
+## Lust transforms to Love
+
+- loving everyone you meet 
+- girl beside bus in himachal, after first course
