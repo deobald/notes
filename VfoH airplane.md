@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-05-02T12:54:52-03:00
+modified: 2023-05-03T18:02:15-03:00
 ---
 
 # VfoH airplane
@@ -65,3 +65,9 @@ modified: 2023-05-02T12:54:52-03:00
 - everyone is their own main character 
 - looking for something larger, more important, to be a part of 
 - “noble death”
+
+## intellectualize it 
+
+most intelelctualizqtion begins with the graveyard. we’ll begin with an american gym. attractive 21-year-olds all wearing tight clothes and you, the 61-year-old, longing for what you can never have again: that. 
+
+intellectually we understand we can’t go back. experientially, we work out, dye our hair, and have hair removed.
