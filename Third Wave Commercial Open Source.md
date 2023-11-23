@@ -41,6 +41,8 @@
     * identity (Solid)
     * legislation (GDPR, Erasure)
 
+AIGPL-4.0: lofi and ai are likely to create cloudless platforms and tools that require new copyleft protections 
+
 ## Preppers, DIY, Off-Grid
 
 Although 3COS adheres more closely to the ideals of "Free Software"
