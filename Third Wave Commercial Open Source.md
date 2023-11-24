@@ -4,6 +4,7 @@
     * FTX
     * Trump Inc.
     * vs. transparency (accountability)
+* Spectrum of Openness: https://ln.hixie.ch/?start=1691780719&count=1
 
 ## First Wave
 
@@ -51,6 +52,8 @@ prepper / off-gridder community in the 2020s. There is a 90s image
 of hackers with hand-soldered hardware piled on stacks of books with
 wires loosely hanging everywhere which clashes with the winning
 waves / trends from above (design, simplicity).
+
+## It Just Works
 
 RTR does not imply DIY. The best example of this so far might be
 Framework, since they offer both prebuilt and DIY options, but I
