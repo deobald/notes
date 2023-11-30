@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-05-03T18:02:15-03:00
+modified: 2023-11-30T12:23:52-04:00
 ---
 
 # VfoH airplane
@@ -71,3 +71,14 @@ modified: 2023-05-03T18:02:15-03:00
 most intelelctualizqtion begins with the graveyard. we’ll begin with an american gym. attractive 21-year-olds all wearing tight clothes and you, the 61-year-old, longing for what you can never have again: that. 
 
 intellectually we understand we can’t go back. experientially, we work out, dye our hair, and have hair removed.
+
+## ledi sayadaw / webu sayadaw
+
+focusing on the known monastics in the tradition, one gets two sets of instructions:
+
+- anapana only, vipassana naturally 
+- anapana 5 hrs/day, then inspect the hairs of the body 
+
+it’s worth noting that for these teachers, restricting attention to an individual hair is the _beginning_ of the technique. that would still be considered “gross” sensation.
+
+sati of a single hair, or of something equally singular but sutble, is therefore an observation of narrow anicca. craving arises when observing / experiencing larger portions of the body: sensation in aggregate
