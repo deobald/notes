@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2023-11-30T12:23:52-04:00
+modified: 2023-11-30T12:38:29-04:00
 ---
 
 # VfoH airplane
@@ -82,3 +82,13 @@ focusing on the known monastics in the tradition, one gets two sets of instructi
 it’s worth noting that for these teachers, restricting attention to an individual hair is the _beginning_ of the technique. that would still be considered “gross” sensation.
 
 sati of a single hair, or of something equally singular but sutble, is therefore an observation of narrow anicca. craving arises when observing / experiencing larger portions of the body: sensation in aggregate
+
+## Vipassana for Taoists
+
+- break apart pieces of the body 
+- “why do you suffer? because you have a body!”
+
+## Vipassana for Gamers
+
+- zoom in/out of a battlefield / slaughter of sankharas in hell 
+- zelda: link’s awakening, light/dark world
