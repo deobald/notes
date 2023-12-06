@@ -17,6 +17,7 @@
     * Telegram
     * Keybase
     * Snap Store? wtf, Canonical
+* MySQL: https://www.pitchdeckhunt.com/pitch-decks/mysql p39
 
 ## Third Wave = Waves/Trends Intersecting
 
@@ -31,8 +32,8 @@
     * Rust
     * lightweight architecture
     * i.e. Not Slack
-    * 
-* federation 
+    *
+* federation
     * CoSocial (commercial, public)
 * society
     * Mastodon
@@ -42,7 +43,7 @@
     * identity (Solid)
     * legislation (GDPR, Erasure)
 
-AIGPL-4.0: lofi and ai are likely to create cloudless platforms and tools that require new copyleft protections 
+AIGPL-4.0: lofi and ai are likely to create cloudless platforms and tools that require new copyleft protections
 
 ## Preppers, DIY, Off-Grid
 
