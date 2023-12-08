@@ -22,6 +22,9 @@ modified: 2023-11-30T12:38:29-04:00
 - getting a recipe vs. cooking w someone (pairing)
 - Make and Notepad - using the tools available
     - Eric Liu "mastered Notepad" then showed others
+      (also a mastered programmer in his own right)
+      could start/close, edit text files on any computer without touching mouse
+    - "using the tools available to you" => the breath, the body
 
 # Hacking is Social
 
