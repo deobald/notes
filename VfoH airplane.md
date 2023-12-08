@@ -25,6 +25,8 @@ modified: 2023-11-30T12:38:29-04:00
       (also a mastered programmer in his own right)
       could start/close, edit text files on any computer without touching mouse
     - "using the tools available to you" => the breath, the body
+- Make: 'make install' => 'make test' => 'make deploy'
+    - not really the intended use, but installed on every computer, so
 
 # Hacking is Social
 
