@@ -23,3 +23,5 @@ If I'm attacked on the street, I do not run to a copyright lawyer.
 
 Conversely, a license has no power to supercede antitrust laws.
 It seems very likely that, within the decade, we'll see antitrust laws emerge which prevent a _platform_ vendor from operating a service competing directly with SaaS running on their platform, regardless of whether it is open source or not.
+
+* https://github.com/Open-Weights/Definition
