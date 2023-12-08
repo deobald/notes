@@ -2,7 +2,9 @@
 
 Affero Incognosco GPL
 
-When the training data for something like Copilot must be licensed a certain way, the AIGPL-4.0 would cause consumption to force an AIGPL-4.0 license on the consumer? (licensing training data)
+When the training data for something like Copilot must be licensed a certain way,
+the AIGPL-4.0 would cause consumption to force an AIGPL-4.0 license on the consumer?
+(licensing training data)
 
 - license code, models, and training data? (separately?)
 

@@ -81,3 +81,24 @@ server maintainers.
 
 * merging: skeksis + urRu / mystics
     * the "evil" capitalist vehicle + the "natural" desire to share
+
+Third-Wave is:
+
+* protectionist, "stallman-ized" freedom
+* dual licensing
+* services / SaaS
+* hidden data and/or hidden models
+
+## Commodity Thinking
+
+* moving power from system => user land:
+
+Developers and SysAdmins have always embraced open source, as "systems people".
+W3COSS brings the power previously available to systems/hackers to users.
+-> good design puts power in the hands of users, with less effort on their part
+
+* recognize the value of the capitalist vehicle
+* foss is commodity thinking in action
+
+TODO: grab 2-axis graph of f/oss projects from nilenso talk
+      + eclipse, mozilla, CNCF, Apache, Linux Foundation
