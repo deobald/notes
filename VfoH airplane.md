@@ -1,6 +1,6 @@
 ---
 created: 2023-03-15T21:15:18-06:00
-modified: 2024-01-09T12:21:17-06:00
+modified: 2024-01-09T16:24:04-06:00
 ---
 
 # VfoH airplane
@@ -128,3 +128,7 @@ explaining this to jill had been impossible. she asked “what do you think heav
 ## Halucination VS Reality
 
 if you want to have xperience a mythology which is in fact Real, you need to shatter the constructed hallucinations which distort reality. the devas and asuras are there to experience directly. you currently see them as taxes and evil coworkers
+
+## learn to swim 
+
+not always a relaxed back stroke in a calm pool … sometimes surviving a flood. western contemporary mindfulness pictures a forced vacation to the calm pond, somehow, amidst floods and tsunamis and hurricanes everywhere else — including the mind
