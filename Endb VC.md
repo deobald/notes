@@ -1,6 +1,6 @@
 ---
 created: 2024-04-10T14:02:37+05:30
-modified: 2024-04-10T14:32:49+05:30
+modified: 2024-04-10T14:33:38+05:30
 ---
 
 # Endb VC
@@ -12,7 +12,7 @@ modified: 2024-04-10T14:32:49+05:30
 predecessor:
 - couchbase founders
 - confluent founders
-- neo4j
+- neo4j - jim / ian
 
 story:
 - kafka - ksql 
