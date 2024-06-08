@@ -37,3 +37,8 @@ the variation in scale is used to get a clearer sense of impermanence in a tiny 
 * https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/sastudies.pdf
 * https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/encyclopedia-entries/yamaka.pdf
 * http://www.thebuddhaswords.net/an/an10.28.html
+* Nandamātā (lay woman)
+* Parāyaņa-vagga and Ațțhaka-vagga of the Suttanipāta
+    * Parāyaņa-vagga (Pali poetry)
+* https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/hearing.pdf
+    * "it doesn't want to be read - it wants to be heard."
