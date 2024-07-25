@@ -2,6 +2,7 @@
 
 ## Metabase
 
+* AGPL + ee
 * EM
 * Product Manager
 * OSS Community Advocate
@@ -10,6 +11,7 @@ https://www.metabase.com/jobs
 
 ## PostHog
 
+* MIT + ee
 * Abhik suggested
 
 https://posthog.com/careers
