@@ -1,5 +1,16 @@
 # Jobs
 
+* https://fantastic.earth/tags/hiring
+* https://mastodon.social/tags/hiring
+
+## iNaturalist
+
+* open source
+* $180k USD
+* closes July 31
+
+https://app.beapplied.com/apply/gotyyjtuxa
+
 ## Metabase
 
 * AGPL + ee
@@ -18,11 +29,24 @@ https://posthog.com/careers
 https://posthog.com/careers/speculative-application
 https://posthog.com/careers/technical-ex-founder - this one
 
-## iNaturalist
+## Oxide
 
-* closes July 31
+https://oxide.computer/careers
 
-https://app.beapplied.com/apply/gotyyjtuxa
+## Fastly
+
+* Abhinav suggested
+* contribute to open source
+
+https://www.fastly.com/about/jobs/apply/?gh_jid=6130389 - EM, DevEx
+https://www.fastly.com/about/jobs/apply/?gh_jid=6019035 - EM, Wasm
+https://www.fastly.com/about/careers/current-openings/
+
+## Chronon
+
+* AI feature store (Airbnb, Stripe)
+
+https://chronon.ai/
 
 ## Igalia
 
