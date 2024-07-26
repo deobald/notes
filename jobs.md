@@ -11,6 +11,13 @@
 
 https://app.beapplied.com/apply/gotyyjtuxa
 
+## Technogise
+
+* Anand Agrawal
+* Bangalore, Pune
+
+https://www.technogise.com/
+
 ## Metabase
 
 * AGPL + ee
