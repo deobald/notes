@@ -18,6 +18,13 @@ https://app.beapplied.com/apply/gotyyjtuxa
 
 https://www.technogise.com/
 
+## Nextcloud
+
+* AGPL
+* Technical Project Manager
+
+https://nextcloud.com/jobs/#technical-project-manager
+
 ## Metabase
 
 * AGPL + ee
