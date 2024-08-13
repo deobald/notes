@@ -25,6 +25,17 @@ https://www.technogise.com/
 
 https://nextcloud.com/jobs/#technical-project-manager
 
+## Plausible
+
+* AGPL
+* no positions
+* hello@plausible.io
+
+https://plausible.io/
+https://plausible.io/docs/authors
+https://x.com/ukutaht
+https://x.com/markosaric
+
 ## Metabase
 
 * AGPL + ee
