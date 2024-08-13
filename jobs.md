@@ -36,6 +36,13 @@ https://plausible.io/docs/authors
 https://x.com/ukutaht
 https://x.com/markosaric
 
+## Supabase
+
+* Apache 2.0
+* Technical Product Manager
+
+https://boards.greenhouse.io/supabase/jobs/5245988004
+
 ## Metabase
 
 * AGPL + ee
