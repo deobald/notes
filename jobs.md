@@ -22,7 +22,7 @@ https://www.technogise.com/
 
 ## Nextcloud
 
-* [x] apply
+* [x] applied
 * AGPL
 * Technical Project Manager
 
@@ -30,6 +30,7 @@ https://nextcloud.com/jobs/#technical-project-manager
 
 ## Plausible
 
+* [x] applied
 * AGPL
 * no positions
 * hello@plausible.io
@@ -41,6 +42,7 @@ https://x.com/markosaric
 
 ## Supabase
 
+* [x] applied
 * Apache 2.0
 * Technical Product Manager
 
@@ -48,6 +50,7 @@ https://boards.greenhouse.io/supabase/jobs/5245988004
 
 ## Metabase
 
+* [ ] apply
 * AGPL + ee
 * EM
 * Product Manager
