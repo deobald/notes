@@ -5,6 +5,7 @@
 
 ## iNaturalist
 
+* [x] applied
 * open source
 * $180k USD
 * closes July 31
@@ -13,6 +14,7 @@ https://app.beapplied.com/apply/gotyyjtuxa
 
 ## Technogise
 
+* [x] talked to anand
 * Anand Agrawal
 * Bangalore, Pune
 
@@ -20,6 +22,7 @@ https://www.technogise.com/
 
 ## Nextcloud
 
+* [x] apply
 * AGPL
 * Technical Project Manager
 
