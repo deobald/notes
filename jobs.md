@@ -50,7 +50,7 @@ https://boards.greenhouse.io/supabase/jobs/5245988004
 
 ## Metabase
 
-* [ ] apply
+* [x] apply
 * AGPL + ee
 * EM
 * Product Manager
@@ -60,12 +60,27 @@ https://www.metabase.com/jobs
 
 ## PostHog
 
+* [x] applied
 * MIT + ee
 * Abhik suggested
 
 https://posthog.com/careers
 https://posthog.com/careers/speculative-application
 https://posthog.com/careers/technical-ex-founder - this one
+
+## Igalia
+
+* [x] applied
+* send cover letter
+
+https://www.igalia.com/jobs/open/
+
+## Halifax CSDS
+
+* [x] applied
+* closes Aug 6
+
+https://jobs.novascotia.ca/job/HALIFAX-Director%2C-Cloud-and-Software-Engineering-NS-B3J-2Y1/583012417/
 
 ## Oxide
 
@@ -86,18 +101,6 @@ https://www.fastly.com/about/careers/current-openings/
 
 https://chronon.ai/
 
-## Igalia
-
-* send cover letter
-
-https://www.igalia.com/jobs/open/
-
-## Halifax CSDS
-
-* closes Aug 6
-
-https://jobs.novascotia.ca/job/HALIFAX-Director%2C-Cloud-and-Software-Engineering-NS-B3J-2Y1/583012417/
-
 ## DRW
 
 * Agile PM, Montreal
@@ -107,6 +110,7 @@ https://drw.com/work-at-drw/listings/agile-project-manager-2161968
 ## Gumroad
 
 * dev
+* meh.
 
 https://app.flexile.com/roles/gumroad/senior-software-engineer-gdgefd3jm6zrh
 
