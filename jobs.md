@@ -7,9 +7,20 @@
 
 * still no idea how best to approach this
 
+## Cap
+
+* [ ] email?
+* https://cap.so/
+
+## Ente
+
+* [ ] email?
+* https://ente.io/
+
 ## Oxide
 
-https://oxide.computer/careers
+* [x] applied
+* https://oxide.computer/careers
 
 ## Ubicloud
 
@@ -139,3 +150,8 @@ https://github.com/symphoniacloud/cicada
 * Abhik suggested; sent linkedin
 
 https://recruit.svs.io/about
+
+## Muse (Audacity)
+
+* Product Owner
+* https://www.mu.se/careers/po-ms
