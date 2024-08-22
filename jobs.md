@@ -3,6 +3,19 @@
 * https://fantastic.earth/tags/hiring
 * https://mastodon.social/tags/hiring
 
+## Framework
+
+* still no idea how best to approach this
+
+## Oxide
+
+https://oxide.computer/careers
+
+## Ubicloud
+
+* [x] emailed
+* https://www.ubicloud.com/about-ubicloud
+
 ## iNaturalist
 
 * [x] applied
@@ -81,10 +94,6 @@ https://www.igalia.com/jobs/open/
 * closes Aug 6
 
 https://jobs.novascotia.ca/job/HALIFAX-Director%2C-Cloud-and-Software-Engineering-NS-B3J-2Y1/583012417/
-
-## Oxide
-
-https://oxide.computer/careers
 
 ## Fastly
 
