@@ -29,7 +29,7 @@
 
 ## iNaturalist
 
-* [x] applied
+* [x] applied - nope
 * open source
 * $180k USD
 * closes July 31
@@ -46,7 +46,7 @@ https://www.technogise.com/
 
 ## Nextcloud
 
-* [x] applied
+* [x] applied - nope
 * AGPL
 * Technical Project Manager
 
@@ -66,7 +66,7 @@ https://x.com/markosaric
 
 ## Supabase
 
-* [x] applied
+* [x] applied - nope
 * Apache 2.0
 * Technical Product Manager
 
@@ -84,7 +84,7 @@ https://www.metabase.com/jobs
 
 ## PostHog
 
-* [x] applied
+* [x] applied - nope
 * MIT + ee
 * Abhik suggested
 
