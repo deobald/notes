@@ -28,3 +28,17 @@ the variation in scale is used to get a clearer sense of impermanence in a tiny 
 
 “my body sleeps. my mind doesn’t sleeps.”
 “we can cheat others. we can’t cheat ourselves.”
+
+## 2024-06-08 Bhikkhu Analayo
+
+* https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/bhikkhuni.pdf
+* https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/foundation.pdf
+* https://www.academia.edu/15356864/The_Parinirv%C4%81%E1%B9%87a_of_Mah%C4%81praj%C4%81pat%C4%AB_Gautam%C4%AB_and_Her_Followers_in_the_M%C5%ABlasarv%C4%81stiv%C4%81da_Vinaya
+* https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/sastudies.pdf
+* https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/encyclopedia-entries/yamaka.pdf
+* http://www.thebuddhaswords.net/an/an10.28.html
+* Nandamātā (lay woman)
+* Parāyaņa-vagga and Ațțhaka-vagga of the Suttanipāta
+    * Parāyaņa-vagga (Pali poetry)
+* https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/hearing.pdf
+    * "it doesn't want to be read - it wants to be heard."
