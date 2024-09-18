@@ -1,6 +1,6 @@
 ---
 created: 2023-04-19T07:59:44-03:00
-modified: 2023-07-13T17:53:12-03:00
+modified: 2024-09-17T20:12:35-04:00
 ---
 
 # Fiction
@@ -18,3 +18,9 @@ if we want to make use of this anger, the worlds mafias have known for a long ti
 hindi word for “slut” (?) on a boy’s t-shirt, tiny lettering 
 
 meri hindion bahut gandi hain
+
+## airplanes
+
+i watch them give the safety demo. will they be performative? bored? or both? the girl with the glasses uses excessive hand gestures. the girl with the bleach blonde hair has done this thousands of times but still indulges a flourish with the information card in the back of your seat. 
+
+is flying in a holding pattern as satisfying as riding a motorcycle on an oval track? is this the best part of the job?
