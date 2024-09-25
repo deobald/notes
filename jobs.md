@@ -3,6 +3,19 @@
 * https://fantastic.earth/tags/hiring
 * https://mastodon.social/tags/hiring
 
+## Signal
+
+* Alex Hart (Halihax)
+
+## Technogise
+
+* [x] talked to anand
+* [ ] second chat pending
+* Anand Agrawal
+* Bangalore, Pune
+
+https://www.technogise.com/
+
 ## Framework
 
 * still no idea how best to approach this
@@ -35,14 +48,6 @@
 * closes July 31
 
 https://app.beapplied.com/apply/gotyyjtuxa
-
-## Technogise
-
-* [x] talked to anand
-* Anand Agrawal
-* Bangalore, Pune
-
-https://www.technogise.com/
 
 ## Nextcloud
 
