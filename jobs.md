@@ -20,20 +20,31 @@ https://www.technogise.com/
 
 * still no idea how best to approach this
 
-## Cap
-
-* [ ] email?
-* https://cap.so/
-
 ## Ente
 
-* [ ] email?
+* [-] email? - nop
+* [ ] intro through kitty
 * https://ente.io/
 
 ## Oxide
 
 * [x] applied
+* [ ] chat w rain pending
 * https://oxide.computer/careers
+
+## Gumroad
+
+* dev
+* meh. halftime, though?
+
+https://help.gumroad.com/article/284-jobs-at-gumroad.html
+https://app.flexile.com/roles/gumroad/senior-software-engineer-gdgefd3jm6zrh
+
+## Cap
+
+* [-] email? - nah.
+* [x] posted intro to Discord
+* https://cap.so/
 
 ## Ubicloud
 
@@ -132,13 +143,6 @@ https://chronon.ai/
 
 https://drw.com/work-at-drw/listings/agile-project-manager-2161968
 
-## Gumroad
-
-* dev
-* meh.
-
-https://app.flexile.com/roles/gumroad/senior-software-engineer-gdgefd3jm6zrh
-
 ## Cicada (Symphonia)
 
 * Mike Roberts
@@ -149,6 +153,7 @@ https://github.com/symphoniacloud/cicada
 
 * Tommy Hinrichs, Slack
 * Delivery Lead in Halifax
+* [x] had call; 2/5 appealing
 
 ## SVS / Recruit
 
