@@ -32,6 +32,12 @@ https://www.technogise.com/
 * [ ] chat w rain pending
 * https://oxide.computer/careers
 
+## Cimpress
+
+* pop works here
+* [x] applied
+* https://jobs.vista.com/Cimpress-Technology/job/Senior-Software-Engineer%2C-Product-Catalog-US-Remote/1193761800/
+
 ## Gumroad
 
 * dev
@@ -121,6 +127,11 @@ https://www.igalia.com/jobs/open/
 * closes Aug 6
 
 https://jobs.novascotia.ca/job/HALIFAX-Director%2C-Cloud-and-Software-Engineering-NS-B3J-2Y1/583012417/
+
+## WealthSimple
+
+* [x] applied
+* Lead Product Manager / Dev Manager for API Platform
 
 ## Fastly
 
