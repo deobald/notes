@@ -20,10 +20,17 @@ https://www.technogise.com/
 
 * still no idea how best to approach this
 
+## Tailscale
+
+* [ ] any common connections?
+* [ ] apply for EM: https://job-boards.greenhouse.io/tailscale/jobs/4364340005
+
+https://tailscale.com/careers#open-job-positions
+
 ## Ente
 
-* [-] email? - nop
-* [ ] intro through kitty
+* [x] email? - nop
+* [x] intro through kitty
 * https://ente.io/
 
 ## Oxide
