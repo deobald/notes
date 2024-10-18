@@ -6,6 +6,14 @@
 ## Signal
 
 * Alex Hart (Halihax)
+* [x] applied
+
+## Tailscale
+
+* Paul Hinze via Dan Manges
+    * [ ] chat?
+* [x] applied: https://job-boards.greenhouse.io/tailscale/jobs/4364340005
+* https://tailscale.com/careers#open-job-positions
 
 ## Technogise
 
