@@ -3,6 +3,18 @@
 * https://fantastic.earth/tags/hiring
 * https://mastodon.social/tags/hiring
 
+## Akamai
+
+* Kamal Velan
+* Senior Technical Program Manager
+* https://akamaicareers.inflightcloud.com/apply/summary?section=aka_ext&job=035735
+
+## Sanctuary Computer
+
+* employee-owned, profit-sharing consultancy
+* https://www.sanctuary.computer/
+* tech director: https://garden3d.notion.site/Technical-Director-0e81207223e34bc0892a3727ab5c7d2d
+
 ## Signal
 
 * Alex Hart (Halihax)
@@ -11,7 +23,8 @@
 ## Tailscale
 
 * Paul Hinze via Dan Manges
-    * [ ] chat?
+    * [x] chatted
+    * [ ] follow-up?
 * [x] applied: https://job-boards.greenhouse.io/tailscale/jobs/4364340005
 * https://tailscale.com/careers#open-job-positions
 
