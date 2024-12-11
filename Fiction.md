@@ -1,6 +1,6 @@
 ---
 created: 2023-04-19T07:59:44-03:00
-modified: 2024-09-17T20:15:52-04:00
+modified: 2024-12-11T13:05:02-04:00
 ---
 
 # Fiction
@@ -34,3 +34,5 @@ There is this line from "Foundation", something to the effect of:
 > You're a sperm led by its waving flagellum, mistaking its random motion for complexity.
 
 Which does a fantastic job of explaining the root cause of the Earth Repopulation movement championed by recent billionaires. This is our basest impulse, and it happens to coincide with pleasure. There was never a time in our lives when the twin impulses to ejaculate and procreate were more in sync than when we were 18. Perhaps an exception to this rule exists for those with unbounded mountains of cash.
+
+> a fat little stoner with no clarity or vision whatsoever.
