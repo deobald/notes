@@ -5,3 +5,4 @@
 - [[The Computers Do Not Respect My Time]]
 - [[Commodity Thinking]]
 
+- [[Optimistic Computing]]
