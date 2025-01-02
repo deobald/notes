@@ -1,16 +1,19 @@
 # Places I Would Like To Work
 
-To varying degrees, in a timeline where I'm independently wealthy 
-(in the present timeline, I am not), 
-these are companies and organizations I'd probably 
+To varying degrees, in a timeline where I'm independently wealthy
+(in the present timeline, I am not),
+these are companies and organizations I'd probably
 enjoy working at, even if they didn't pay me.
 
-## For-Profits - Not Software 
+This is a living document.
+Let me know if I missed a good one.
+
+## For-Profits - Not Software
 
 * [Framework Computer](https://frame.work)
 * [Oxide Computer](https://oxide.computer)
 
-## For-Profits - Software 
+## For-Profits - Software
 
 * [Tailscale](https://tailscale.com)
 * [Ente](https://ente.io/)
@@ -34,4 +37,3 @@ enjoy working at, even if they didn't pay me.
 
 I'm generally into [Third Wave Open Source](https://github.com/deobald/thirdwaveopensource?tab=readme-ov-file)
 but any company listed on that page that isn't listed here would definitely have to pay me. ;)
-
