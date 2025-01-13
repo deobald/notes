@@ -29,6 +29,7 @@ Let me know if I missed a good one.
 * [Signal Messenger](https://signal.org)
 * [GNOME Foundation](https://foundation.gnome.org/)
 * [Internet Archive](https://archive.org)
+* [OSM Foundation](https://osmfoundation.org/)
 * [Wikimedia Foundation](https://wikimediafoundation.org/)
 * [Sovereign Tech Agency](https://www.sovereign.tech/)
 * [iNaturalist](https://www.inaturalist.org/)
