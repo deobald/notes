@@ -23,6 +23,15 @@ Let me know if I missed a good one.
 * [Plausible](https://plausible.io/)
 * [Typesense](https://typesense.org/)
 * [Igalia](https://www.igalia.com/)
+* [Development Seed](https://developmentseed.org/)
+
+## For-Profits - Coops
+
+Igalia is not in this list because they are not a legal Cooperative.
+
+* [Hypha](https://hypha.coop/)
+* [Drivers Cooperative](https://drivers.coop/)
+* [Village One](https://www.village.one/)
 
 ## Non-Profits
 
