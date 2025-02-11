@@ -3,6 +3,16 @@
 * https://fantastic.earth/tags/hiring
 * https://mastodon.social/tags/hiring
 
+## GNOME
+
+
+Deb Nicholson
+Jonathan Blandford
+Julian Hofer
+Julian Sparber
+Rosanna Yuen
+
+
 ## Akamai
 
 * Kamal Velan
