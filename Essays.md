@@ -6,3 +6,5 @@
 - [[Commodity Thinking]]
 
 - [[Optimistic Computing]]
+
+- [[Mutable Databases = Hand Editing JSON]]
