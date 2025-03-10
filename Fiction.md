@@ -1,6 +1,6 @@
 ---
 created: 2023-04-19T07:59:44-03:00
-modified: 2024-12-26T13:35:50-06:00
+modified: 2025-03-10T16:34:16-03:00
 ---
 
 # Fiction
@@ -46,3 +46,5 @@ Which does a fantastic job of explaining the root cause of the Earth Repopulatio
 as much as the americans are left unsatisfied by anything less than 300 flavours, each one injected with syrups and sugars and lard, each with the option of battering and deep-frying, or their insistence on sexualizing children in music, television, and advertising in every corner of their society, the indian approach is the opposite. 
 
 an indian grandmother
+
+a corolla painted the same colour s the original blue smarties released in canada in 1986
