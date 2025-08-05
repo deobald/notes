@@ -6,11 +6,11 @@
 ## GNOME
 
 
-Deb Nicholson
-Jonathan Blandford
-Julian Hofer
+Deb Nicholson - open source ED (Python, OSI, etc.)
+Jonathan Blandford - Red Hat, Twitter, Endless, Google
+Julian Hofer - prefix.dev
 Julian Sparber
-Rosanna Yuen
+Rosanna Yuen - GNOME
 
 
 ## Akamai
